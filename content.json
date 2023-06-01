@@ -1,7 +1,25 @@
 {
-    "about": "<p>Insert your text here, explaining what ocean pollution is and why it is important to protect the oceans.</p>",
-    "causes": "<p>Insert your text here, describing the various causes of ocean pollution.</p>",
-    "effects": "<p>Insert your text here, highlighting the negative impacts of ocean pollution on marine life and the environment.</p>",
-    "solutions": "<p>Insert your text here, providing information about practical solutions to reduce ocean pollution.</p>"
+    "About this file": "This file is where all the text content within all the text pages is kept so that those files are more readable",
+
+    "about": "<p>Index: About</p>",
+    "causes": "<p>Index: Causes</p>",
+    "effects": "<p>Index: Effects</p>",
+    "solutions": "<p>Index: Solutions</p>",
+    "contribute": "<p>Index: Contribute</p>",
+    "aboutProject": "<p>About: About</p>",
+    "aboutMe": "<p>About: Me</p>",
+    "information": "<p>Information: Information</p>",
+    "case1": "<p>Information: Case 1</p>",
+    "case2": "<p>Information: Case 2</p>",
+    "specific1": "<p>Information: Specific 1</p>",
+    "specific2": "<p>Information: Specific 2</p>",
+    "moreSolutions": "<p>Solutions: More Solutions</p>",
+    "facts": "<p>Facts: Facts</p>",
+    "misconceptions": "<p>Misconceptions: Misconceptions</p>",
+    "howToFix": "<p>Misconceptions: How To Fix</p>",
+    "game": "<p>Game: Game</p>",
+    "worksheets": "<p>Resources: Worksheets</p>",
+    "videos": "<p>Resources: Videos</p>",
+    "websites": "<p>Resources: Websites</p>"
   }
   
