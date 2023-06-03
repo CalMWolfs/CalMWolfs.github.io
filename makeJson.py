@@ -10,14 +10,19 @@ def split_into_chunks(string):
     words = string.split()
     for word in words:
         if len(current_chunk) + len(word) + 1 <= max_length:
-            current_chunk += '' + word + ' '
+            current_chunk += word + ' '
             # below is for the line after it has been split
         else:
             chunks.append(current_chunk.strip())
-            current_chunk = '' + word + ' '
+            current_chunk =  word + ' '
 
     if current_chunk:
         chunks.append(current_chunk.strip())
+
+
+    if chunks:
+        chunks[0] = '<p>' + chunks[0]
+        chunks[-1] = chunks[-1] + '</p><br>'
 
     return chunks
 
@@ -27,9 +32,9 @@ def getInput():
 
     chunks = split_into_chunks(input_string)
 
-    output = ',\n'.join(['"' + chunk + '"' for chunk in chunks])
+    output = ',\n'.join(['" ' + chunk + '"' for chunk in chunks])
 
-    print("\nOutput copied to clipboard.")
+    print("\nOutput copied to clipboard.\n")
     pyperclip.copy("[" + output + "]")
     getInput()
 
