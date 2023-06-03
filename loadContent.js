@@ -18,7 +18,6 @@ fetch(contentUrl)
     setElementContent("aboutContent", data.about);
     setElementContent("causesContent", data.causes);
     setElementContent("effectsContent", data.effects);
-    setElementContent("solutionsContent", data.solutions);
     setElementContent("contributeContent", data.contribute);
     setElementContent("aboutProjectContent", data.aboutProject);
     setElementContent("aboutMeContent", data.aboutMe);
