@@ -20,7 +20,6 @@ header {
 }
 
 /* Navigation styles */
-/* ul is unordered list */
 nav ul {
   list-style-type: none;
   display: flex;
@@ -73,6 +72,22 @@ section .section-text {
   margin-right: 30%;
   word-wrap: break-word;
   margin-bottom: 40px;
+}
+
+/* Ajust the images in the section */
+.section-text img {
+  max-width: 100%;
+  max-height: 200px;
+}
+
+.section-text .image-left {
+  float: left;
+  margin: 5px 5px 5px 0;
+}
+
+.section-text .image-right {
+  float: right;
+  margin: 5px 0 5px 5px;
 }
 
 /* Footer styles */

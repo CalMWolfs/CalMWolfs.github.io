@@ -27,7 +27,7 @@ fetch(contentUrl)
     setElementContent("specificExample1Content", data.specific1);
     setElementContent("specificExample2Content", data.specific2);
     setElementContent("moreSolutionsContent", data.moreSolutions);
-    setElementContent("factsContent", data.facts);
+    setElementContent("funfactsContent", data.funfacts);
     setElementContent("misconceptionsContent", data.misconceptions);
     setElementContent("howToFixContent", data.howToFix);
     setElementContent("gameContent", data.game);
@@ -41,10 +41,23 @@ fetch(contentUrl)
     });
 
 
-// Function to set the innerHTML of an element if it exists so that the website doesn't break
+// set the html of the main file for each paragraph in the json. It also checks the element exists
 function setElementContent(elementId, content) {
   const element = document.getElementById(elementId);
   if (element) {
-    element.innerHTML = content.join(' ');
+    let html = "";
+
+    for (let i = 0; i < content.length; i++) {
+      const paragraph = content[i].text.join("");
+      const image = content[i].image;
+      const imageClass = i % 2 === 0 ? 'image-left' : 'image-right';
+      if (image) {
+        html += `<img class="${imageClass}" src="${image.src}" alt="${image.alt}">`;
+      }
+
+      html += `<p>${paragraph}</p><br>`;
+
+    }
+    element.innerHTML = html;
   }
 }
