@@ -1,9 +1,8 @@
 import pyperclip
 
 max_length = 100
-start = '{\n"title": "",\n"text":['
+start = '{\n"title": "",\n"text": ['
 end = '],\n"image": {\n"src": "",\n"alt": ""\n}\n}'
-
 
 # splitting the string into lines the same as the max length variable
 def split_into_chunks(string):

@@ -24,7 +24,7 @@ fetch(contentUrl)
     setElementContent("informationContent", data.information);
     setElementContent("caseStudy1Content", data.case1);
     setElementContent("caseStudy2Content", data.case2);
-    setElementContent("innovation1Content", data.innovation1);
+    // setElementContent("innovation1Content", data.innovation1);
     setElementContent("innovation2Content", data.innovation2);
     setElementContent("moreSolutionsContent", data.moreSolutions);
     setElementContent("funfactsContent", data.funfacts);
@@ -56,7 +56,7 @@ function setElementContent(elementId, content) {
         html += `<h3>${title}</h3>`
       }
 
-      if (image) {
+      if (image && image.src != "") {
         html += `<img class="${imageClass}" src="${image.src}" alt="${image.alt}">`;
       }
 

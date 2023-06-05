@@ -226,9 +226,117 @@
 
   "case2": ["Information: Case 2"],
 
-  "innovation1": ["Information: Innovation 1"],
+  "innovation1": [
+    {
+      "title": "The Seabin",
+      "text": ["The Seabin is an innovation that is designed by two Australian designers that disliked the amount",
+      " of rubbish they found in bodies of water around the world. They decided that a good way to reduce",
+      " the amount of rubbish going from these waterways to ending up in the ocean was to catch them before",
+      " this happens. They observed that a lot of the floating rubbish and chemicals were located near the",
+      " edges of the water and decided to use the existing technology that pools use to clean their surface",
+      " to filter out this rubbish."],
+      "image": {
+      "src": "",
+      "alt": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["The team that made the Seabin initially consisted of two Australians; Andrew Turton and Pete",
+      " Ceglinski. In the next few years the team grew to consist of about 30 members from countries all",
+      " over the world. They were able to receive funding from a few big companies, the Australian",
+      " government and others that were interested in the project."],
+      "image": {
+      "src": "",
+      "alt": ""
+    }
+    },    
+    {
+      "title": "",
+      "text": ["The designers used the idea of pool skimmers to create the Seabin and allow it to suck in the",
+      " floating rubbish around it. The outside of the bin moves up and down slowly in the water which",
+      " creates a small whirlpool around where the bin is installed that slowly draws in anything floating",
+      " on the water. The strength of this whirlpool is very weak meaning that it will not affect animals",
+      " or swimmers in the area."],
+      "image": {
+      "src": "",
+      "alt": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["Once the rubbish is near the bin, the larger objects will get stuck at the edge of the bin and will",
+      " stay there until collected. The smaller pieces of rubbish will then be sucked into the bin where",
+      " they will stay until they are also collected. The rest of the water and chemicals that entered the",
+      " bin will then go into a pipe at the bottom of the bin where they are pumped through a filter which",
+      " separates all the harmful chemicals from the water."],
+      "image": {
+      "src": "",
+      "alt": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["Around the world there are at least 1,500 Seabins installed in various countries and waterways. A",
+      " lot of these are attached to marinas or floating near the shore of these waterways. Generally they",
+      " need to be emptied anywhere between 1 and 3 times every two days. In Sydney alone in just two",
+      " years, over 100 tonnes of Rubbish was filtered out of the harbour water."],
+      "image": {
+      "src": "",
+      "alt": ""
+      }
+    }
+  ],
 
-  "innovation2": ["Information: Innovation 2"],
+  "innovation2": [
+    {
+      "title": "",
+      "text": ["The Ocean Cleanup organisation found out that one of the biggest contributors to ocean water",
+      " pollution is rubbish that enters through rivers. This is usually due to poor management on land",
+      " that is related to other social and political factors. They also discovered that there is a group",
+      " of around 1000 rivers in the world that produce more rubbish than the others. This is what led them",
+      " to the idea of reducing the output of rubbish from these select rivers."],
+      "image": {
+      "src": "",
+      "alt": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["The solution they came up with was to make large vehicles that sit near the mouth of the river and",
+      " collect rubbish as it flows out with the tide. They use a floating barrier to direct the rubbish to",
+      " the interceptor which then uses a conveyor belt to lift anything floating out of the water and",
+      " dumps it into the bins inside. This is then emptied every few days and taken to local facilities",
+      " where the plants are sorted out before the rest is properly disposed of."],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "title": "",
+      "text":["The interceptors have a range of different models so that they can be used in different types of",
+      " rivers. This means that the width of the river or the amount of water that flows through it each",
+      " day does not affect the performance of the interceptors. Some also are bigger than others to cater",
+      " for increased amounts of rubbish in certain areas. They are all solar powered to reduce the amount",
+      " of negative environmental impact that their operation has."],
+      "image": {
+      "src": "",
+      "alt": ""
+      }
+    },
+    {
+      "title": "",
+      "text":["The Ocean Cleanup is also working on a few other projects that can also be used to further reduce",
+      " the amount of rubbish entering the ocean. One of these is a floating barrier that catches rubbish",
+      " coming from small channels and rivers that boats don’t use. This rubbish build up is collected by",
+      " small interceptors that can be driven around like motor boats."],
+      "image": {
+      "src": "",
+      "alt": ""
+      }
+    }
+  ],
 
   "moreSolutions": ["Solutions: More Solutions"],
 
@@ -306,6 +414,15 @@
         "alt": ""
       }
     },
+    {
+      "title": "",
+      "text":["It is much cheaper and easier to reduce the amount of plastic entering the ocean than to remove the",
+      " existing plastic in the ocean!"],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
     { 
       "title": "",
       "text": ["People are making cool things out of recycled plastic like furniture, clothing, and even toys! This",
@@ -327,7 +444,26 @@
     { 
       "title": "",
       "text": ["By learning about plastic pollution and making small changes in our daily lives, we can protect the",
-      " ocean and the marine life that lives within it."],
+      " ocean and the marine life that lives in it."],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "title": "",
+      "text":["Around 80% of all pollution that enters the ocean through rivers, does it through only 1,000",
+      " rivers. This means that if we limit the amount of pollution from these rivers we can reduce the",
+      " amount of plastic in the ocean."],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "title": "",
+      "text":["Each year ocean water pollution costs Australia around 12 million dollars. This is totalled from",
+      " the fishing industry, tourism and government cleanup efforts."],
       "image": {
         "src": "",
         "alt": ""
