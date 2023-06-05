@@ -24,8 +24,8 @@ fetch(contentUrl)
     setElementContent("informationContent", data.information);
     setElementContent("caseStudy1Content", data.case1);
     setElementContent("caseStudy2Content", data.case2);
-    setElementContent("specificExample1Content", data.specific1);
-    setElementContent("specificExample2Content", data.specific2);
+    setElementContent("innovation1Content", data.innovation1);
+    setElementContent("innovation2Content", data.innovation2);
     setElementContent("moreSolutionsContent", data.moreSolutions);
     setElementContent("funfactsContent", data.funfacts);
     setElementContent("misconceptionsContent", data.misconceptions);
@@ -50,7 +50,12 @@ function setElementContent(elementId, content) {
     for (let i = 0; i < content.length; i++) {
       const paragraph = content[i].text.join("");
       const image = content[i].image;
+      const title = content[i].title
       const imageClass = i % 2 === 0 ? 'image-left' : 'image-right';
+      if (title) {
+        html += `<h3>${title}</h3>`
+      }
+
       if (image) {
         html += `<img class="${imageClass}" src="${image.src}" alt="${image.alt}">`;
       }

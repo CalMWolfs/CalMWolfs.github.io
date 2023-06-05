@@ -1,6 +1,9 @@
 import pyperclip
 
 max_length = 100
+start = '{\n"title": "",\n"text":['
+end = '],\n"image": {\n"src": "",\n"alt": ""\n}\n}'
+
 
 # splitting the string into lines the same as the max length variable
 def split_into_chunks(string):
@@ -36,7 +39,7 @@ def getInput():
     output = ',\n'.join(['"' + chunk + '"' for chunk in chunks])
 
     print("\nOutput copied to clipboard.\n")
-    pyperclip.copy('{\n"text":[' + output + ']\n}')
+    pyperclip.copy(start + output + end)
     getInput()
 
 def main():
