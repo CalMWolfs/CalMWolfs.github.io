@@ -19,10 +19,11 @@ def split_into_chunks(string):
     if current_chunk:
         chunks.append(current_chunk.strip())
 
+    i = 1
 
-    if chunks:
-        chunks[0] = '<p>' + chunks[0]
-        chunks[-1] = chunks[-1] + '</p><br>'
+    for chunk in chunks[1:]:
+        chunks[i] = ' ' + chunks[i]
+        i += 1
 
     return chunks
 
@@ -32,10 +33,10 @@ def getInput():
 
     chunks = split_into_chunks(input_string)
 
-    output = ',\n'.join(['" ' + chunk + '"' for chunk in chunks])
+    output = ',\n'.join(['"' + chunk + '"' for chunk in chunks])
 
     print("\nOutput copied to clipboard.\n")
-    pyperclip.copy("[" + output + "]")
+    pyperclip.copy('{\n"text":[' + output + ']\n}')
     getInput()
 
 def main():

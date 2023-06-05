@@ -220,30 +220,50 @@
   "moreSolutions": ["Solutions: More Solutions"],
 
   "funfacts": [
-    {
-      "text": ["<p>Did you know that over 8 million tonnes of plastic enter the ocean each year? That's like throwing",
-      " 50,000 blue whales into the ocean!</p><br>",
-      " <p>Plastic straws might seem small, but if we lined up all the straws used in a day, they could wrap",
-      " around the Earth two and a half times!</p><br>",
-      "<p>Plastic takes a really long time to break down with some plastic items taking up to 1,000 years to",
-      " fully disappear!</p><br>",
-      " <p>The Great Pacific Garbage Patch is a huge area in the ocean filled with floating plastic that is at",
-      " least three times the size of France!</p><br>",
-      "<p>Microplastics are tiny pieces of plastic that are smaller than grains of rice. They are the result",
+    { 
+      "text": ["Did you know that over 8 million tonnes of plastic enter the ocean each year? That's like throwing",
+      " 50,000 blue whales into the ocean!"]
+    },
+    { 
+      "text": ["Plastic straws might seem small, but if we lined up all the straws used in a day, they could wrap",
+      " around the Earth two and a half times!"]
+    },
+    { 
+      "text": ["Plastic takes a really long time to break down with some plastic items taking up to 1,000 years to",
+      " fully disappear!"]
+    },
+    { 
+      "text": ["The Great Pacific Garbage Patch is a huge area in the ocean filled with floating plastic that is at",
+      " least three times the size of France!"]
+    },
+    { 
+      "text": ["Microplastics are tiny pieces of plastic that are smaller than grains of rice. They are the result",
       " of larger plastic breaking down and can be found in the ocean, in our food, and even in the air we",
-      " breathe!</p><br>",
-      "<p>Everywhere in the world can be affected by plastic pollution in the ocean. Even remote and",
-      " beautiful islands and this is why it is important to keep the ocean clean no matter where you are.</p><br>",
-      "<p>Plastic pollution doesn’t just affect the ocean but it also affects other bodies of water where",
-      " animals live such as lakes and rivers.</p><br>",
-      "<p>Plastic has been found inside marine animals such as the fish that we eat. This is why it is",
-      " important to be careful about how we dispose of plastic.</p><br>",
-      "<p>People are making cool things out of recycled plastic like furniture, clothing, and even toys! This",
-      " means that there is less plastic in the ocean!</p><br>",
-      "<p>Beach cleanups are a fun way to help keep the ocean clean. You can even find treasures like",
-      " seashells or coins while making a positive impact!</p><br>",
-      "<p>By learning about plastic pollution and making small changes in our daily lives, we can protect the",
-      " ocean and the marine life that lives within it.</p><br>"]
+      " breathe!"]
+    },
+    { 
+      "text": ["Everywhere in the world can be affected by plastic pollution in the ocean. Even remote and",
+      " beautiful islands and this is why it is important to keep the ocean clean no matter where you are."]
+    },
+    { 
+      "text": ["Plastic pollution doesn’t just affect the ocean but it also affects other bodies of water where",
+      " animals live such as lakes and rivers."]
+    },
+    { 
+      "text": ["Plastic has been found inside marine animals such as the fish that we eat. This is why it is",
+      " important to be careful about how we dispose of plastic."]
+    },
+    { 
+      "text": ["People are making cool things out of recycled plastic like furniture, clothing, and even toys! This",
+      " means that there is less plastic in the ocean!"]
+    },
+    { 
+      "text": ["Beach cleanups are a fun way to help keep the ocean clean. You can even find treasures like",
+      " seashells or coins while making a positive impact!"]
+    },
+    { 
+      "text": ["By learning about plastic pollution and making small changes in our daily lives, we can protect the",
+      " ocean and the marine life that lives within it."]
     }
   ],
 
