@@ -42,6 +42,7 @@
       }
     }
   ],
+
   "causes": [
     { 
       "text": ["One of the major concerns in ocean water pollution is plastic entering the ocean. Plastic items",
@@ -108,6 +109,7 @@
       }
     }
   ],
+
   "effects": [
     { 
       "title": "",
@@ -159,6 +161,7 @@
       }
     }
   ],
+
   "contribute": [
     { 
       "title": "",
@@ -225,17 +228,6 @@
     }
   ],
 
-  "aboutMe": [
-    {
-      "title": "",
-      "text": [],
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    }
-  ],
-
   "information": [
     {
       "title": "",
@@ -249,8 +241,34 @@
 
   "caseStudies": [
     {
+      "title": "Coral Bleaching",
+      "text": ["Teams of American and Australian scientists worked together 10 years ago to find links between",
+      " plastic water pollution and coral bleaching. Their testing was conducted in over 150 different",
+      " reefs in 8 different areas within the Pacific Ocean. According to their results, the risk to coral",
+      " reefs of getting diseases is 22 times more likely once there is plastic pollution in the",
+      " environment around them."],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
       "title": "",
-      "text": [],
+      "text": ["They also found that the shape of the coral affected how much impact the plastic pollution would",
+      " have on the coral. If the coral had thinner outer branches and those branches were in a more",
+      " complex shape, it would be more likely to bleach due to the exposure to plastic in the water."],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["Not only does the plastic damage the coral when it makes contact with the reef or blocks the coral",
+      " from getting food and sunlight. Places where there is excess plastic in the water will also have",
+      " higher levels of chemicals in the water which also causes more coral bleaching. In addition to all",
+      " of this, plastic drifting from one reef to another can quickly spread dangerous diseases that will",
+      " kill the coral."],
       "image": {
         "src": "",
         "alt": ""
@@ -596,7 +614,7 @@
     },
     {
       "title": "",
-      "text": ["There is anywhere between 15 to 51 trillion particles of microplastics floating in the ocean in",
+      "text": ["There are anywhere between 15 to 51 trillion particles of microplastics floating in the ocean in",
       " addition to other plastics!"],
       "image": {
         "src": "",
