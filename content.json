@@ -11,8 +11,8 @@
       " plants and animals that live there. This also makes the water dirty and unsafe for humans to use",
       " for drinking, eating and playing."],
       "image": {
-        "src": "images/",
-        "alt": "Image 1"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -25,8 +25,8 @@
       " these plants are in unclean water or have their sunlight blocked by floating rubbish they can",
       " disrupt the balance of the ocean around them making it harder for animals to survive."],
       "image": {
-        "src": "images/",
-        "alt": "Image 2"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -37,8 +37,8 @@
       " and put it into a bin to stop it from entering the environment and the ocean. By all doing our part",
       " we can work together to make a big difference and make the world a better place."],
       "image": {
-        "src": "images/",
-        "alt": "Image 3"
+        "src": "",
+        "alt": ""
       }
     }
   ],
@@ -51,8 +51,8 @@
       " will often be carried out to sea where it will stay for many years. Using bins to throw away",
       " plastic waste will help to reduce the amount that ends up in waterways."],
       "image": {
-        "src": "images/",
-        "alt": "Image 4"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -65,8 +65,8 @@
       " ocean you can make sure to not use products that contain them and to also ensure you properly",
       " dispose of waste."],
       "image": {
-        "src": "images/",
-        "alt": "Image 5"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -79,8 +79,8 @@
       " Also getting reusable utensils or saying no to getting utensils from restaurants when you know you",
       " don’t need them can have a positive impact."],
       "image": {
-        "src": "images/",
-        "alt": "Image 6"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -90,8 +90,8 @@
       " equipment and making sure to buy from suppliers that care about the environment can drastically",
       " reduce the amount of pollution in the ocean due to fishing companies."],
       "image": {
-        "src": "images/",
-        "alt": "Image 7"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -103,8 +103,8 @@
       " sustainable materials and dispose of waste through better sources leading to a reduction in",
       " pollution."],
       "image": {
-        "src": "images/",
-        "alt": "Image 8"
+        "src": "",
+        "alt": ""
       }
     }
   ],
@@ -117,8 +117,8 @@
       " pollution in the ocean disrupts the marine ecosystem, those natural habitats and the food chains in",
       " this ecosystem leading to an imbalance in biodiversity which can cause other problems."],
       "image": {
-        "src": "images/",
-        "alt": "Image 9"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -130,8 +130,8 @@
       " their protein and as this slowly contains higher levels of microplastics more people are beginning",
       " to become sick."],
       "image": {
-        "src": "images/",
-        "alt": "Image 10"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -142,8 +142,8 @@
       " pollution. As these plants are essential to the ecosystems, once they begin to die the whole",
       " ecosystem around them also begins to fall apart."],
       "image": {
-        "src": "images/",
-        "alt": "Image 11"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -154,8 +154,8 @@
       " water pollution is one of the main problems we need to deal with in the world currently. Lower",
       " oxygen levels will land ecosystems beginning to struggle and a decrease in the world’s air quality."],
       "image": {
-        "src": "images/",
-        "alt": "Image 12"
+        "src": "",
+        "alt": ""
       }
     }
   ],
@@ -170,8 +170,8 @@
       " then you can recycle it. Check the label on the piece of plastic to find out if it can be recycled",
       " in your local area. Lots of plastic bottles can be recycled with the return and earn scheme."],
       "image": {
-        "src": "images/",
-        "alt": "Image 13"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -182,8 +182,8 @@
       " receiving a piece of plastic cutlery you are reducing the amount of plastic ending up in landfills",
       " and potentially the ocean."],
       "image": {
-        "src": "images/",
-        "alt": "Image 14"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -195,8 +195,8 @@
       " environment clean, display the problems with not disposing of waste properly and limit the amount",
       " of rubbish ending up in the ocean."],
       "image": {
-        "src": "images/",
-        "alt": "Image 15"
+        "src": "",
+        "alt": ""
       }
     },
     { 
@@ -208,21 +208,66 @@
       " already heard about it because they may need a reminder or you may have some information that they",
       " haven't heard yet."],
       "image": {
-        "src": "images/",
-        "alt": "Image 16"
+        "src": "",
+        "alt": ""
       }
     }
   ],
 
-  "aboutProject": ["About: About"],
+  "aboutProject": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
-  "aboutMe": ["About: Me"],
+  "aboutMe": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
-  "information": ["Information: Information"],
+  "information": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
-  "case1": ["Information: Case 1"],
+  "case1": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
-  "case2": ["Information: Case 2"],
+  "case2": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
   "innovation1": [
     {
@@ -336,7 +381,16 @@
     }
   ],
 
-  "moreSolutions": ["Solutions: More Solutions"],
+  "moreSolutions": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
   "funfacts": [
     { 
@@ -469,16 +523,70 @@
     }
   ],
 
-  "misconceptions": ["Misconceptions: Misconceptions"],
+  "misconceptions": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
-  "howToFix": ["Misconceptions: How To Fix"],
+  "howToFix": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
   
-  "game": ["Game: Game"],
+  "game": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
-  "worksheets": ["Resources: Worksheets"],
+  "worksheets": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
-  "videos": ["Resources: Videos"],
+  "videos": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
 
-  "websites": ["Resources: Websites"]
+  "websites": [
+    {
+      "title": "",
+      "text": [],
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ]
 }
   
