@@ -24,7 +24,7 @@ fetch(contentUrl)
     setElementContent("informationContent", data.information);
     setElementContent("caseStudy1Content", data.case1);
     setElementContent("caseStudy2Content", data.case2);
-    // setElementContent("innovation1Content", data.innovation1);
+    setElementContent("innovation1Content", data.innovation1);
     setElementContent("innovation2Content", data.innovation2);
     setElementContent("moreSolutionsContent", data.moreSolutions);
     setElementContent("funfactsContent", data.funfacts);
