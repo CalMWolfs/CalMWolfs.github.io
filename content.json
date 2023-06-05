@@ -247,7 +247,7 @@
     }
   ],
 
-  "case1": [
+  "caseStudies": [
     {
       "title": "",
       "text": [],
@@ -258,18 +258,7 @@
     }
   ],
 
-  "case2": [
-    {
-      "title": "",
-      "text": [],
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    }
-  ],
-
-  "innovation1": [
+  "innovations": [
     {
       "title": "The Seabin",
       "text": ["The Seabin is an innovation that is designed by two Australian designers that disliked the amount",
@@ -328,12 +317,9 @@
         "src": "",
         "alt": ""
       }
-    }
-  ],
-
-  "innovation2": [
+    },
     {
-      "title": "",
+      "title": "River Interceptors",
       "text": ["The Ocean Cleanup organisation found out that one of the biggest contributors to ocean water",
       " pollution is rubbish that enters through rivers. This is usually due to poor management of waste on",
       " land due to other social and political factors. They also discovered that there is a group of",
