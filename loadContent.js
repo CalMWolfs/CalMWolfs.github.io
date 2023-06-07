@@ -22,7 +22,9 @@ if (pageName != 'game.html') {
       const top = Math.floor(Math.random() * 50) + 60;
       const left = Math.floor(Math.random() * 90) + 5;
       const animation = Math.floor(Math.random() * 7) + 3;
-      styleLine = `top: ${top}%;left: ${left}%;animation: animate ${animation}s linear infinite`
+      const scale = Math.floor(Math.random() * 2);
+
+      styleLine = `top: ${top}%;left: ${left}%;animation: animate ${animation}s linear infinite;transform: scale(${scale})`
       html += `<div style="${styleLine}"><span class="dot"></span></div>`
     }
     div[i].innerHTML = html;
