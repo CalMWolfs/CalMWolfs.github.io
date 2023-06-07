@@ -17,6 +17,12 @@ body {
 header {
   text-align: center;
   margin-bottom: 20px;
+  width:100%;
+  height:110px;
+  background:rgb(153, 220, 226);
+  position: fixed;
+  translate: -20px -20px;
+  z-index: 1;
 }
 
 /* Navigation styles */
@@ -24,7 +30,7 @@ nav ul {
   list-style-type: none;
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 /* The actual list of pages */
@@ -51,6 +57,7 @@ main {
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 110px;
 }
 
 /* Sections on the pages */
