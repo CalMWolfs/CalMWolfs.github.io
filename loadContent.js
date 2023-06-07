@@ -18,10 +18,10 @@ if (pageName != 'game.html') {
     if (div) {
       let html = "";
   
-    for (let i = 0; i < 10; i++) {
-      const top = Math.floor(Math.random() * 50) + 60;
+    for (let i = 0; i < 30; i++) {
+      const top = Math.floor(Math.random() * 50) + 55;
       const left = Math.floor(Math.random() * 90) + 5;
-      const animation = Math.floor(Math.random() * 7) + 3;
+      const animation = (Math.floor(Math.random() * 14) + 6) / 2;
       const scale = Math.floor(Math.random() * 2);
 
       styleLine = `top: ${top}%;left: ${left}%;animation: animate ${animation}s linear infinite;transform: scale(${scale})`

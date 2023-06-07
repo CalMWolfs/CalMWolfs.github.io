@@ -80,6 +80,7 @@ section .section-text {
   margin-right: 30%;
   word-wrap: break-word;
   margin-bottom: 40px;
+  z-index: 2;
 }
 
 /* Ajust the images in the section */
