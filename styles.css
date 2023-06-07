@@ -5,11 +5,6 @@
   box-sizing: border-box;
 }
 
-/* For scrolling */
-html {
-  scroll-behavior: smooth;
-}
-
 /* Body styles */
 body {
   font-family: Cochin;
@@ -56,6 +51,34 @@ nav ul li a:hover {
   background-color: #005f84;
 }
 
+#contentsTable {
+  position: fixed;
+  top: 200px;
+}
+
+#contentsTable ul {
+  list-style-type: none;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+#contentsTable ul li {
+  margin-top: 20px;
+}
+
+#contentsTable ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 20px;
+  background-color: #0084b4;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+#contentsTable ul li a:hover {
+  background-color: #005f84;
+}
+
 /* Main content styles */
 main {
   background-color: #fff;
@@ -78,6 +101,8 @@ section h2 {
   color: #1e00ff;
   position: relative; 
   text-align: center;
+  width: 50%;
+  translate: 50%;
 }
 
 /* Sections text */

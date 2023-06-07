@@ -31,11 +31,12 @@ if (pageName != 'game.html') {
 
   const tableOfContents = document.getElementById("contentsTable")
   const sections = document.getElementsByTagName("section")
-  html = "";
+  html = "<ul>";
   for (let i = 0; i < sections.length; i++) {
     console.log(sections[i].id)
-    html += `<b href="#${sections[i].id}">${sections[i].id}</b>`
+    html += `<li><a href="#${sections[i].id}">${sections[i].id}</a></li>`
   }
+  html += `</ul>`
   tableOfContents.innerHTML = html;
 } 
 
