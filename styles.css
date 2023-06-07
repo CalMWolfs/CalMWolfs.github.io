@@ -54,6 +54,7 @@ nav ul li a:hover {
 /* Main content styles */
 main {
   background-color: #fff;
+  background: linear-gradient(180deg, #c7deff,#5396f5 50%, #3086ff);
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -68,7 +69,7 @@ section {
 /* Sections headers */
 section h2 {
   margin-bottom: 20px;
-  color: #0084b4;
+  color: #1e00ff;
   position: relative; 
   text-align: center;
 }
