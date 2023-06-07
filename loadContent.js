@@ -10,6 +10,26 @@ if (window.location.hostname === "localhost" || window.location.hostname === "12
 
 const contentUrl = baseUrl + "content.json";
 
+let pageName = window.location.href.split('/').slice(-1)
+
+if (pageName != 'game.html') {
+  const div = document.getElementsByClassName("bubbles")
+  for (let i = 0; i < div.length; i++) {
+    if (div) {
+      let html = "";
+  
+    for (let i = 0; i < 10; i++) {
+      const top = Math.floor(Math.random() * 50) + 60;
+      const left = Math.floor(Math.random() * 90) + 5;
+      const animation = Math.floor(Math.random() * 7) + 3;
+      styleLine = `top: ${top}%;left: ${left}%;animation: animate ${animation}s linear infinite`
+      html += `<div style="${styleLine}"><span class="dot"></span></div>`
+    }
+    div[i].innerHTML = html;
+  }
+ }
+} 
+
 // Fetch the content from the external file
 fetch(contentUrl)
     .then(response => response.json())
@@ -59,7 +79,6 @@ function setElementContent(elementId, content) {
       }
 
       html += `<p>${paragraph}</p><br>`;
-
     }
     element.innerHTML = html;
   }
