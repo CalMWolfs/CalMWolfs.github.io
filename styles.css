@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+/* For scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
 /* Body styles */
 body {
   font-family: Cochin;
@@ -64,6 +69,7 @@ main {
 /* Sections on the pages */
 section {
   margin-bottom: 20px;
+  scroll-margin-top: 150px;
 }
 
 /* Sections headers */

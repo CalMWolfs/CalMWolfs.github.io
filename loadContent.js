@@ -9,27 +9,34 @@ if (window.location.hostname === "localhost" || window.location.hostname === "12
 }
 
 const contentUrl = baseUrl + "content.json";
-
 let pageName = window.location.href.split('/').slice(-1)
 
+// Not doing this on the game page
 if (pageName != 'game.html') {
-  const div = document.getElementsByClassName("bubbles")
-  for (let i = 0; i < div.length; i++) {
-    if (div) {
-      let html = "";
-  
-    for (let i = 0; i < 30; i++) {
-      const top = Math.floor(Math.random() * 50) + 55;
-      const left = Math.floor(Math.random() * 90) + 5;
-      const animation = (Math.floor(Math.random() * 14) + 6) / 2;
-      const scale = Math.floor(Math.random() * 2);
 
-      styleLine = `top: ${top}%;left: ${left}%;animation: animate ${animation}s linear infinite;transform: scale(${scale})`
-      html += `<div style="${styleLine}"><span class="dot"></span></div>`
-    }
-    div[i].innerHTML = html;
+  // Drawing the bubbles
+  const div = document.getElementById("bubbles")
+  let html = "";
+
+  for (let i = 0; i < 30; i++) {
+    const top = Math.floor(Math.random() * 50) + 55;
+    const left = Math.floor(Math.random() * 90) + 5;
+    const animation = (Math.floor(Math.random() * 14) + 6) / 2;
+    const scale = Math.floor(Math.random() * 2);
+
+    styleLine = `top: ${top}%;left: ${left}%;animation: animate ${animation}s linear infinite;transform: scale(${scale})`
+    html += `<div style="${styleLine}"><span class="dot"></span></div>`
   }
- }
+  div.innerHTML = html;
+
+  const tableOfContents = document.getElementById("contentsTable")
+  const sections = document.getElementsByTagName("section")
+  html = "";
+  for (let i = 0; i < sections.length; i++) {
+    console.log(sections[i].id)
+    html += `<b href="#${sections[i].id}">${sections[i].id}</b>`
+  }
+  tableOfContents.innerHTML = html;
 } 
 
 // Fetch the content from the external file
