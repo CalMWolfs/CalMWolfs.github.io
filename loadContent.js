@@ -55,7 +55,7 @@ fetch(contentUrl)
     setElementContent("innovationsContent", data.innovations);
     setElementContent("moreSolutionsContent", data.moreSolutions);
     setElementContent("funFactsContent", data.funFacts);
-    setElementContent("advancedFactsContent", data.advancedFacts);
+    setElementContent("moreFactsContent", data.moreFacts);
     setElementContent("misconceptionsContent", data.misconceptions);
     setElementContent("howToFixContent", data.howToFix);
     setElementContent("gameContent", data.game);
