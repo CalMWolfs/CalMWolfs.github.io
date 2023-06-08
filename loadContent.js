@@ -9,6 +9,7 @@ if (window.location.hostname === "localhost" || window.location.hostname === "12
 }
 
 const contentUrl = baseUrl + "content.json";
+const glossaryJson = baseUrl + "glossary.json"
 let pageName = window.location.href.split('/').slice(-1)
 
 // Not doing this on the game page
@@ -33,12 +34,23 @@ if (pageName != 'game.html') {
   const sections = document.getElementsByTagName("section")
   html = "<ul>";
   for (let i = 0; i < sections.length; i++) {
-    console.log(sections[i].id)
     html += `<li><a href="#${sections[i].id}">${sections[i].firstElementChild.innerHTML}</a></li>`
   }
   html += `</ul>`
   tableOfContents.innerHTML = html;
 } 
+
+fetch(glossaryJson)
+  .then(response => response.json())
+  .then(data => {
+    const glossary = document.getElementById("glossary")
+    html = ""
+
+    glossary.innerHTML = html
+  })    
+  .catch(error => {
+  console.error("Error fetching content:", error);
+  });
 
 // Fetch the content from the external file
 fetch(contentUrl)

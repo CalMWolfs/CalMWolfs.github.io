@@ -1,0 +1,36 @@
+{
+  "indexhtml": [
+    {
+        "word": "pollution",
+        "definition": "Anything that makes the earth dirty and unhealthy"
+    },
+    {
+        "word": "chemicals",
+        "definition": "A substance that is bad for the environment and the ocean"
+    },
+    {
+        "word": "ecosystem",
+        "definition": "A community of plants and animals that live together"
+    },
+    {
+        "word": "environment",
+        "definition": "All living and non-living things in a certain area"
+    },
+    {
+        "word": "microplastic",
+        "definition": "Pieces of plastic that are smaller than 5mm"
+    },
+    {
+        "word": "sustainable",
+        "definition": "The ability for something to exist on its own and not have negative impacts"
+    },
+    {
+        "word": "biodiversity",
+        "definition": "The range of different animals and plants in a specific area"
+    },    
+    {
+        "word": "awareness",
+        "definition": "Knowledge about a particulat problem or issue in society"
+    }
+  ]
+}
