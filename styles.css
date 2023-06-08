@@ -69,14 +69,14 @@ nav ul li a:hover {
 #contentsTable ul li a{
   text-decoration: none;
   color: #fff;
-  padding: 10px 20px;
-  background-color: #0084b4;
-  border-radius: 5px;
+  padding: 5px 50px;
+  background-color: #001eff;
+  border-radius: 15px;
   transition: all 0.3s ease;
 }
 
 #contentsTable ul li a:hover {
-  background-color: #005f84;
+  background-color: #8dfbf4;
 }
 
 /* Main content styles */

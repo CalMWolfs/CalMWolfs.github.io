@@ -34,7 +34,7 @@ if (pageName != 'game.html') {
   html = "<ul>";
   for (let i = 0; i < sections.length; i++) {
     console.log(sections[i].id)
-    html += `<li><a href="#${sections[i].id}">${sections[i].id}</a></li>`
+    html += `<li><a href="#${sections[i].id}">${sections[i].firstElementChild.innerHTML}</a></li>`
   }
   html += `</ul>`
   tableOfContents.innerHTML = html;
@@ -85,7 +85,7 @@ function setElementContent(elementId, content) {
       }
 
       if (image && image.src != "") {
-        html += `<img class="${imageClass}" src="${image.src}" alt="${image.alt}">`;
+        html += `<img class="${imageClass}" src="${image.src}">`;
       }
 
       html += `<p>${paragraph}</p><br>`;
