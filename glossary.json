@@ -1,36 +1,61 @@
 {
-  "indexhtml": [
+  "index": [
     {
-        "word": "pollution",
+        "word": "Pollution",
         "definition": "Anything that makes the earth dirty and unhealthy"
     },
     {
-        "word": "chemicals",
+        "word": "Chemicals",
         "definition": "A substance that is bad for the environment and the ocean"
     },
     {
-        "word": "ecosystem",
+        "word": "Ecosystem",
         "definition": "A community of plants and animals that live together"
     },
     {
-        "word": "environment",
+        "word": "Environment",
         "definition": "All living and non-living things in a certain area"
     },
     {
-        "word": "microplastic",
+        "word": "Microplastic",
         "definition": "Pieces of plastic that are smaller than 5mm"
     },
     {
-        "word": "sustainable",
+        "word": "Sustainable",
         "definition": "The ability for something to exist on its own and not have negative impacts"
     },
     {
-        "word": "biodiversity",
+        "word": "Biodiversity",
         "definition": "The range of different animals and plants in a specific area"
     },    
     {
-        "word": "awareness",
+        "word": "Awareness",
         "definition": "Knowledge about a particulat problem or issue in society"
+    }
+  ], 
+  "about": [
+    
+  ],
+  "information": [
+    {
+        "word": "Innovation",
+        "definition": "A new invention or idea to solve a problem in the world"
+    },
+    {
+        "word": "Waterways",
+        "definition": "A passage or channel of water that leads to something bigger like a lake or ocean"
+    },
+    {
+        "word": "Chemicals",
+        "definition": "A substance that is bad for the environment and the ocean"
+    },
+    {
+        "word": "Facilities",
+        "definition": "A building or place that is used for a specific purpose"
+    },
+    {
+        "word": "Environment",
+        "definition": "All living and non-living things in a certain area"
     }
   ]
 }

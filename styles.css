@@ -54,6 +54,7 @@ nav ul li a:hover {
 #contentsTable {
   position: fixed;
   top: 200px;
+  left: 10%;
 }
 
 #contentsTable ul {
@@ -77,6 +78,14 @@ nav ul li a:hover {
 
 #contentsTable ul li a:hover {
   background-color: #8dfbf4;
+}
+
+#glossary {
+  position: fixed;
+  top: 200px;
+  right: 7.5%;
+  word-wrap: break-word;
+  width: 20%;
 }
 
 /* Main content styles */

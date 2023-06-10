@@ -44,9 +44,24 @@ fetch(glossaryJson)
   .then(response => response.json())
   .then(data => {
     const glossary = document.getElementById("glossary")
-    html = ""
+    let content;
+    if (glossary) {
+      if (pageName == 'index.html') {
+        content = data.index
+      } else if (pageName == 'about.html') {
+        content = data.about
+      } else if (pageName == 'information.html') {
+        content = data.information
+      }
 
-    glossary.innerHTML = html
+      html = "<h2>Words to learn</h2>"
+      for (let i = 0; i < content.length; i++) {
+        html += `<b>${content[i].word}</b><p>${content[i].definition}</p>`
+        console.log("hiiii")
+      }
+
+      glossary.innerHTML = html
+    }
   })    
   .catch(error => {
   console.error("Error fetching content:", error);
