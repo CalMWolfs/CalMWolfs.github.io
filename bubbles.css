@@ -9,6 +9,7 @@
     left: 10%;
     z-index: 1;
 }
+
 /* Dot in the bubble */
 div .dot {
     height: 10px;
@@ -19,6 +20,7 @@ div .dot {
     top: 20%;
     right: 20%;
 }
+
 /* Bubbles animation */
 @keyframes animate {
     0%{
