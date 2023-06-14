@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .game-info-container {
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .game-info {
+    color: #001a5a;
+    font-size: 4em;
+  }
+
+  .game-container {
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 10px;
+    justify-content: center;
+    perspective: 500px;
+  }
+
+  .card {
+    position: relative;
+    height: 175px;
+    width: 125px;
+  }
