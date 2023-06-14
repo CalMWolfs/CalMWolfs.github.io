@@ -82,7 +82,7 @@ nav ul li a:hover {
 
 #glossary {
   position: fixed;
-  top: 200px;
+  top: 150px;
   right: 7.5%;
   word-wrap: break-word;
   width: 20%;
@@ -145,6 +145,6 @@ footer {
   text-align: center;
   margin-top: 20px;
   padding: 10px 0;
-  background-color: #0084b4;
+  background-color: #3086ff;
   color: #fff;
 }
