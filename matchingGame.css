@@ -36,6 +36,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
   }
 
   .sun {
@@ -51,6 +52,7 @@
     width: 47px;
     height: 47px;
     bottom: 0;
+    animation: move 2s linear infinite;
   }
 
   .wave-left {
@@ -60,4 +62,16 @@
   .wave-right {
     right: 0;
   }
-  
+
+  .wave-hidden {
+    left: -78px;
+  }
+
+  @keyframes move {
+    0%{
+        transform: translateX(0px);
+    }
+    100%{
+        transform: translateX(78px);
+    }
+}
