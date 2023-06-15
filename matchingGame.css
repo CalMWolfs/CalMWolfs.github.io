@@ -16,7 +16,7 @@
   .game-container {
     margin: 50px auto;
     display: grid;
-    grid-template-columns: repeat(4, auto);
+    grid-template-columns: repeat(8, auto);
     grid-gap: 10px;
     justify-content: center;
     perspective: 500px;
@@ -26,4 +26,38 @@
     position: relative;
     height: 175px;
     width: 125px;
+    background-color: gray;
   }
+
+  .card-face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .sun {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    top: 0;
+    left: 0;
+  }
+
+  .wave {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    bottom: 0;
+  }
+
+  .wave-left {
+    left: 0;
+  }
+
+  .wave-right {
+    right: 0;
+  }
+  
