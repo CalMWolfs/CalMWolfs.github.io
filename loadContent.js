@@ -76,7 +76,6 @@ fetch(contentUrl)
     setElementContent("causesContent", data.causes);
     setElementContent("effectsContent", data.effects);
     setElementContent("contributeContent", data.contribute);
-    setElementContent("aboutProjectContent", data.aboutProject);
     setElementContent("informationContent", data.information);
     setElementContent("caseStudiesContent", data.caseStudies);
     setElementContent("innovationsContent", data.innovations);
