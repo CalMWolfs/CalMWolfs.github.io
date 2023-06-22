@@ -11,3 +11,9 @@ Finish matching game for facts
 Add another interactive game or activity to the website
 
 Create resources
+
+More interactive elements
+
+Reduce text
+
+Move things to more relevant places
