@@ -54,7 +54,11 @@ nav ul li a:hover {
 #contentsTable {
   position: fixed;
   top: 200px;
-  left: 10%;
+  left: 5%;
+}
+
+#contentsTable h2 {
+  text-align: center;
 }
 
 #contentsTable ul {

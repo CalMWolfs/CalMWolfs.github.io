@@ -32,7 +32,7 @@ if (pageName != 'game.html') {
 
   const tableOfContents = document.getElementById("contentsTable")
   const sections = document.getElementsByTagName("section")
-  html = "<ul>";
+  html = "<h2>Contents</h2><ul>";
   for (let i = 0; i < sections.length; i++) {
     html += `<li><a href="#${sections[i].id}">${sections[i].firstElementChild.innerHTML}</a></li>`
   }
