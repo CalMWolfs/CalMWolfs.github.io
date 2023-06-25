@@ -79,7 +79,6 @@ fetch(contentUrl)
     setElementContent("informationContent", data.information);
     setElementContent("caseStudiesContent", data.caseStudies);
     setElementContent("innovationsContent", data.innovations);
-    setElementContent("moreSolutionsContent", data.moreSolutions);
     setElementContent("funFactsContent", data.funFacts);
     setElementContent("moreFactsContent", data.moreFacts);
     setElementContent("misconceptionsContent", data.misconceptions);
