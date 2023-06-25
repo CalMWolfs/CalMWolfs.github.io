@@ -46,8 +46,8 @@ fetch(glossaryJson)
     const glossary = document.getElementById("glossary")
     let content;
     if (glossary) {
-      if (pageName == 'index.html') {
-        content = data.index
+      if (pageName == 'oceanPollution.html') {
+        content = data.ocean
       } else if (pageName == 'about.html') {
         content = data.about
       } else if (pageName == 'inventions.html') {
