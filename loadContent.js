@@ -50,8 +50,8 @@ fetch(glossaryJson)
         content = data.ocean
       } else if (pageName == 'about.html') {
         content = data.about
-      } else if (pageName == 'inventions.html') {
-        content = data.inventions
+      } else if (pageName == 'innovations.html') {
+        content = data.innovations
       }
 
       html = "<h2>Words to learn</h2>"
@@ -77,7 +77,7 @@ fetch(contentUrl)
     setElementContent("effectsContent", data.effects);
     setElementContent("contributeContent", data.contribute);
     setElementContent("caseStudiesContent", data.caseStudies);
-    setElementContent("inventionsContent", data.inventions);
+    setElementContent("innovationsContent", data.innovations);
     setElementContent("funFactsContent", data.funFacts);
     setElementContent("moreFactsContent", data.moreFacts);
     setElementContent("misconceptionsContent", data.misconceptions);

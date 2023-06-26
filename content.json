@@ -201,9 +201,9 @@
     }
   ],
 
-  "inventions": [
+  "innovations": [
     {
-      "title": "The Seabin",
+      "title": "<a href=\"https://seabin.io/home/\" target=\"_blank\">The Seabin</a>",
       "text": ["The Seabin is an innovation that is designed by two Australian designers that disliked the amount",
       " of rubbish they found in bodies of water around the world. They decided that a good way to reduce",
       " the amount of rubbish going from these waterways to ending up in the ocean was to catch them before",
@@ -257,7 +257,7 @@
       }
     },
     {
-      "title": "River Interceptors",
+      "title": "<a href=\"https://theoceancleanup.com/rivers/\" target=\"_blank\">River Interceptors</a>",
       "text": ["The Ocean Cleanup organisation found out that one of the biggest contributors to ocean water",
       " pollution is rubbish that enters through rivers. This is usually due to poor management of waste on",
       " land due to other social and political factors. They also discovered that there is a group of",
