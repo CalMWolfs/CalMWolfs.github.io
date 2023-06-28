@@ -50,8 +50,8 @@ fetch(glossaryJson)
         content = data.ocean
       } else if (pageName == 'about.html') {
         content = data.about
-      } else if (pageName == 'innovations.html') {
-        content = data.innovations
+      } else if (pageName == 'resources.html') {
+        content = data.resources
       }
 
       html = "<h2>Words to learn</h2>"
