@@ -1,415 +1,492 @@
 {
-    "About this file": "This file is where all the text content within all the text pages is kept so that those files are more readable",
-
+  "About this file": "This file is where all the text content within all the text pages is kept so that those files are more readable",
   "about": [
-    { 
+    {
       "title": "",
-      "text": ["Ocean water pollution is a serious problem that is caused by harmful things getting into Earth’s",
-      " oceans. These things are usually thrown, dumped or flow into the ocean instead of being taken care",
-      " of properly. They can come from many different sources such as people littering, factories or",
-      " boats. When the ocean water becomes polluted with plastic and chemicals it can cause harm to the",
-      " plants and animals that live there. This also makes the water dirty and unsafe for humans to use",
-      " for drinking, eating and playing."],
+      "text": [
+        "Ocean water pollution is a serious problem that is caused by harmful things getting into Earth’s",
+        " oceans. These things are usually thrown, dumped or flow into the ocean instead of being taken care",
+        " of properly. They can come from many different sources such as people littering, factories or",
+        " boats. When the ocean water becomes polluted with plastic and chemicals it can cause harm to the",
+        " plants and animals that live there. This also makes the water dirty and unsafe for humans to use",
+        " for drinking, eating and playing."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["Ocean water pollution has many negative effects on the ocean ecosystem. The pollutants can harm or",
-      " kill the sea creatures such as fish, turtles, dolphins and many more ocean creatures. Sometimes the",
-      " creatures in the ocean mistake rubbish for food and attempt to eat it which leads to them becoming",
-      " very sick. Pollution in the ocean can also kill a lot of marine plants such as coral and algae",
-      " which are underwater habits for many animals and help to produce a lot of the Earth’s oxygen. When",
-      " these plants are in unclean water or have their sunlight blocked by floating rubbish they can",
-      " disrupt the balance of the ocean around them making it harder for animals to survive."],
+      "text": [
+        "Ocean water pollution has many negative effects on the ocean ecosystem. The pollutants can harm or",
+        " kill the sea creatures such as fish, turtles, dolphins and many more ocean creatures. Sometimes the",
+        " creatures in the ocean mistake rubbish for food and attempt to eat it which leads to them becoming",
+        " very sick. Pollution in the ocean can also kill a lot of marine plants such as coral and algae",
+        " which are underwater habits for many animals and help to produce a lot of the Earth’s oxygen. When",
+        " these plants are in unclean water or have their sunlight blocked by floating rubbish they can",
+        " disrupt the balance of the ocean around them making it harder for animals to survive."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
-      "text": ["It is important for all of us to take action when we can to help keep the ocean clean and spread",
-      " awareness about the issues that are related to unclean oceans. This can be begun by being mindful",
-      " of how our waste is disposed of both at home and in other places. We can also try to use less",
-      " plastic and reuse other items when possible. When we see litter around we can quickly pick it up",
-      " and put it into a bin to stop it from entering the environment and the ocean. By all doing our part",
-      " we can work together to make a big difference and make the world a better place."],
+    {
+      "text": [
+        "It is important for all of us to take action when we can to help keep the ocean clean and spread",
+        " awareness about the issues that are related to unclean oceans. This can be begun by being mindful",
+        " of how our waste is disposed of both at home and in other places. We can also try to use less",
+        " plastic and reuse other items when possible. When we see litter around we can quickly pick it up",
+        " and put it into a bin to stop it from entering the environment and the ocean. By all doing our part",
+        " we can work together to make a big difference and make the world a better place."
+      ],
       "image": {
         "src": ""
       }
     }
   ],
-
   "causes": [
-    { 
-      "text": ["One of the major concerns in ocean water pollution is plastic entering the ocean. Plastic items",
-      " like bags, bottles and packaging often end up in the ocean when they are not treated properly on",
-      " land or bought when they are not needed. By not discarding plastic waste properly there is a very",
-      " high chance that it will either end up in the environment or in waterways. Once in waterways, it",
-      " will often be carried out to sea where it will stay for many years. Using bins to throw away",
-      " plastic waste will help to reduce the amount that ends up in waterways."],
+    {
+      "text": [
+        "One of the major concerns in ocean water pollution is plastic entering the ocean. Plastic items",
+        " like bags, bottles and packaging often end up in the ocean when they are not treated properly on",
+        " land or bought when they are not needed. By not discarding plastic waste properly there is a very",
+        " high chance that it will either end up in the environment or in waterways. Once in waterways, it",
+        " will often be carried out to sea where it will stay for many years. Using bins to throw away",
+        " plastic waste will help to reduce the amount that ends up in waterways."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["Microplastics are an indirect problem that is caused by plastic waste in the ocean. While they are",
-      " small and seem harmless they cause really big problems for animals and humans. They are created",
-      " when bigger pieces of plastic break down due to the elements into smaller pieces. These smaller",
-      " pieces then are in the water and can be drunk by animals or humans which can make them very sick.",
-      " Some products also contain microplastics in them. To reduce the amount of microplastics in the",
-      " ocean you can make sure to not use products that contain them and to also ensure you properly",
-      " dispose of waste."],
+      "text": [
+        "Microplastics are an indirect problem that is caused by plastic waste in the ocean. While they are",
+        " small and seem harmless they cause really big problems for animals and humans. They are created",
+        " when bigger pieces of plastic break down due to the elements into smaller pieces. These smaller",
+        " pieces then are in the water and can be drunk by animals or humans which can make them very sick.",
+        " Some products also contain microplastics in them. To reduce the amount of microplastics in the",
+        " ocean you can make sure to not use products that contain them and to also ensure you properly",
+        " dispose of waste."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["Plastic utensils are a smaller cause of plastic pollution but one that many of us can take part in",
-      " to reduce the effect. Things like plastic straws, forks, knives and spoons along with plastic",
-      " takeout containers are really bad for the environment. As they are typically used when getting food",
-      " quickly to eat somewhere away from home a lot of the time there is no proper waste disposal nearby.",
-      " Alternates like paper, wood and bamboo are good because they are not harmful to the environment.",
-      " Also getting reusable utensils or saying no to getting utensils from restaurants when you know you",
-      " don’t need them can have a positive impact."],
+      "text": [
+        "Plastic utensils are a smaller cause of plastic pollution but one that many of us can take part in",
+        " to reduce the effect. Things like plastic straws, forks, knives and spoons along with plastic",
+        " takeout containers are really bad for the environment. As they are typically used when getting food",
+        " quickly to eat somewhere away from home a lot of the time there is no proper waste disposal nearby.",
+        " Alternates like paper, wood and bamboo are good because they are not harmful to the environment.",
+        " Also getting reusable utensils or saying no to getting utensils from restaurants when you know you",
+        " don’t need them can have a positive impact."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
-      "text": ["The fishing industry is also a really big contributor to ocean water pollution. If any of their",
-      " gear breaks out at sea or gets stuck on the bottom of the ocean it is cheaper for them to just",
-      " leave it in the ocean and get a new one than to try and recover it. Proper disposal of fishing",
-      " equipment and making sure to buy from suppliers that care about the environment can drastically",
-      " reduce the amount of pollution in the ocean due to fishing companies."],
+    {
+      "text": [
+        "The fishing industry is also a really big contributor to ocean water pollution. If any of their",
+        " gear breaks out at sea or gets stuck on the bottom of the ocean it is cheaper for them to just",
+        " leave it in the ocean and get a new one than to try and recover it. Proper disposal of fishing",
+        " equipment and making sure to buy from suppliers that care about the environment can drastically",
+        " reduce the amount of pollution in the ocean due to fishing companies."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["Waste management in general is also a massive issue. Australia does pretty well with waste",
-      " management but other countries in the world do not have good systems in place which leads to a lot",
-      " of waste that can be recycled not being recycled and other waste being handled poorly and ending up",
-      " in the environment. Governments and businesses can incorporate policies and practices that use more",
-      " sustainable materials and dispose of waste through better sources leading to a reduction in",
-      " pollution."],
+      "text": [
+        "Waste management in general is also a massive issue. Australia does pretty well with waste",
+        " management but other countries in the world do not have good systems in place which leads to a lot",
+        " of waste that can be recycled not being recycled and other waste being handled poorly and ending up",
+        " in the environment. Governments and businesses can incorporate policies and practices that use more",
+        " sustainable materials and dispose of waste through better sources leading to a reduction in",
+        " pollution."
+      ],
       "image": {
         "src": ""
       }
     }
   ],
-
   "effects": [
-    { 
+    {
       "title": "",
-      "text": ["Ocean water pollution is very bad for all marine life. Animals will mistake the plastic pollution",
-      " in the ocean for food and it will cause them to become sick. Other plastic pollution such as",
-      " fishing gear can cause marine life to be stuck until they eventually die of starvation. Plastic",
-      " pollution in the ocean disrupts the marine ecosystem, those natural habitats and the food chains in",
-      " this ecosystem leading to an imbalance in biodiversity which can cause other problems."],
+      "text": [
+        "Ocean water pollution is very bad for all marine life. Animals will mistake the plastic pollution",
+        " in the ocean for food and it will cause them to become sick. Other plastic pollution such as",
+        " fishing gear can cause marine life to be stuck until they eventually die of starvation. Plastic",
+        " pollution in the ocean disrupts the marine ecosystem, those natural habitats and the food chains in",
+        " this ecosystem leading to an imbalance in biodiversity which can cause other problems."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["There are many negative impacts related to human health from ocean water pollution. As more",
-      " pollution enters the ocean and breaks down into microplastics, more of the water we drink contains",
-      " microplastics. The animals that are in the ocean are already being found to have much higher levels",
-      " of microplastics inside of them than 10 years ago. Around 1/3 of the world relies on seafood for",
-      " their protein and as this slowly contains higher levels of microplastics more people are beginning",
-      " to become sick."],
+      "text": [
+        "There are many negative impacts related to human health from ocean water pollution. As more",
+        " pollution enters the ocean and breaks down into microplastics, more of the water we drink contains",
+        " microplastics. The animals that are in the ocean are already being found to have much higher levels",
+        " of microplastics inside of them than 10 years ago. Around 1/3 of the world relies on seafood for",
+        " their protein and as this slowly contains higher levels of microplastics more people are beginning",
+        " to become sick."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["The ecosystems themselves can be disrupted by there being plastic pollution in the ocean. Coral",
-      " reefs, kelp and areas of dense algae all provide food and shelter for many of the ocean's wildlife.",
-      " The plants will lose access to sunlight due to floating debris and the coral can become covered in",
-      " pollution. As these plants are essential to the ecosystems, once they begin to die the whole",
-      " ecosystem around them also begins to fall apart."],
+      "text": [
+        "The ecosystems themselves can be disrupted by there being plastic pollution in the ocean. Coral",
+        " reefs, kelp and areas of dense algae all provide food and shelter for many of the ocean's wildlife.",
+        " The plants will lose access to sunlight due to floating debris and the coral can become covered in",
+        " pollution. As these plants are essential to the ecosystems, once they begin to die the whole",
+        " ecosystem around them also begins to fall apart."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["While many people think that ocean water pollution just affects the water and the animals that live",
-      " there, most people are not aware of the larger issue which is that the ocean produces at least 50%",
-      " of the Earth’s oxygen. This poses a much bigger risk than many people know of and this is why ocean",
-      " water pollution is one of the main problems we need to deal with in the world currently. Lower",
-      " oxygen levels will land ecosystems beginning to struggle and a decrease in the world’s air quality."],
+      "text": [
+        "While many people think that ocean water pollution just affects the water and the animals that live",
+        " there, most people are not aware of the larger issue which is that the ocean produces at least 50%",
+        " of the Earth’s oxygen. This poses a much bigger risk than many people know of and this is why ocean",
+        " water pollution is one of the main problems we need to deal with in the world currently. Lower",
+        " oxygen levels will land ecosystems beginning to struggle and a decrease in the world’s air quality."
+      ],
       "image": {
         "src": ""
       }
     }
   ],
-
   "contribute": [
-    { 
+    {
       "title": "",
-      "text": ["One of the best things that you can do to make a difference is to follow the three R’s. Reduce,",
-      " Reuse, Recycle. Reducing is when you decide that you don’t need that item so you choose not to get",
-      " it. This can be things like wanting the latest model of something when your current one works fine.",
-      " Reusing is deciding to use something you already have, such as a water bottle or food container",
-      " instead of throwing it out and getting a new one. If you have plastic waste that you can’t reuse",
-      " then you can recycle it. Check the label on the piece of plastic to find out if it can be recycled",
-      " in your local area. Lots of plastic bottles can be recycled with the return and earn scheme."],
+      "text": [
+        "One of the best things that you can do to make a difference is to follow the three R’s. Reduce,",
+        " Reuse, Recycle. Reducing is when you decide that you don’t need that item so you choose not to get",
+        " it. This can be things like wanting the latest model of something when your current one works fine.",
+        " Reusing is deciding to use something you already have, such as a water bottle or food container",
+        " instead of throwing it out and getting a new one. If you have plastic waste that you can’t reuse",
+        " then you can recycle it. Check the label on the piece of plastic to find out if it can be recycled",
+        " in your local area. Lots of plastic bottles can be recycled with the return and earn scheme."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["Saying “no” to unneeded plastic items such as plastic straws when you are out can help to reduce",
-      " the amount of plastic ending up in the ocean and becoming a danger to marine life. Instead, you can",
-      " carry around a reusable straw or just drink directly from the cup. Every time you say “no” to",
-      " receiving a piece of plastic cutlery you are reducing the amount of plastic ending up in landfills",
-      " and potentially the ocean."],
+      "text": [
+        "Saying “no” to unneeded plastic items such as plastic straws when you are out can help to reduce",
+        " the amount of plastic ending up in the ocean and becoming a danger to marine life. Instead, you can",
+        " carry around a reusable straw or just drink directly from the cup. Every time you say “no” to",
+        " receiving a piece of plastic cutlery you are reducing the amount of plastic ending up in landfills",
+        " and potentially the ocean."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["Public cleanups are a great way to help out the environment. Local communities such as your school",
-      " or local council will periodically organise events where you clean up an area around you, sometimes",
-      " it is a park or other times it is somewhere on the harbour. If there are no public cleanups in your",
-      " area you can organise one through one of these communities. These cleanups help to keep the",
-      " environment clean, display the problems with not disposing of waste properly and limit the amount",
-      " of rubbish ending up in the ocean."],
+      "text": [
+        "Public cleanups are a great way to help out the environment. Local communities such as your school",
+        " or local council will periodically organise events where you clean up an area around you, sometimes",
+        " it is a park or other times it is somewhere on the harbour. If there are no public cleanups in your",
+        " area you can organise one through one of these communities. These cleanups help to keep the",
+        " environment clean, display the problems with not disposing of waste properly and limit the amount",
+        " of rubbish ending up in the ocean."
+      ],
       "image": {
         "src": ""
       }
     },
-    { 
+    {
       "title": "",
-      "text": ["One of the best things you can do, especially if you are younger is to educate others around you",
-      " about the issue. By spreading awareness of the issue, more people will begin to make choices that",
-      " have a more positive impact on the environment and will lead to less plastic making its way into",
-      " the ocean. You can tell anyone you want about ocean water pollution even if you think they have",
-      " already heard about it because they may need a reminder or you may have some information that they",
-      " haven't heard yet."],
+      "text": [
+        "One of the best things you can do, especially if you are younger is to educate others around you",
+        " about the issue. By spreading awareness of the issue, more people will begin to make choices that",
+        " have a more positive impact on the environment and will lead to less plastic making its way into",
+        " the ocean. You can tell anyone you want about ocean water pollution even if you think they have",
+        " already heard about it because they may need a reminder or you may have some information that they",
+        " haven't heard yet."
+      ],
       "image": {
         "src": ""
       }
     }
   ],
-
   "funFacts": [
-    { 
+    {
       "title": "",
-      "text": ["Did you know that over 8 million tonnes of plastic enter the ocean each year? That's like throwing",
-      " 50,000 blue whales into the ocean!"],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["Plastic straws might seem small, but if we lined up all the straws used in a day, they could wrap",
-      " around the Earth two and a half times!"],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["Plastic takes a really long time to break down with some plastic items taking up to 1,000 years to",
-      " fully disappear!"],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["The Great Pacific Garbage Patch is a huge area in the ocean filled with floating plastic that is at",
-      " least three times the size of France!"],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["Microplastics are tiny pieces of plastic that are smaller than grains of rice. They are the result",
-      " of larger plastic breaking down and can be found in the ocean, in our food, and even in the air we",
-      " breathe!"],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["Everywhere in the world can be affected by plastic pollution in the ocean. Even remote and",
-      " beautiful islands and this is why it is important to keep the ocean clean no matter where you are."],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["Plastic pollution doesn’t just affect the ocean but it also affects other bodies of water where",
-      " animals live such as lakes and rivers."],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["Plastic has been found inside marine animals such as the fish that we eat. This is why it is",
-      " important to be careful about how we dispose of plastic."],
+      "text": [
+        "Did you know that over 8 million tonnes of plastic enter the ocean each year? That's like throwing",
+        " 50,000 blue whales into the ocean!"
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text":["It is much cheaper and easier to reduce the amount of plastic entering the ocean than to remove the",
-      " existing plastic in the ocean!"],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["People are making cool things out of recycled plastic like furniture, clothing, and even toys! This",
-      " means that there is less plastic in the ocean!"],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["Beach cleanups are a fun way to help keep the ocean clean. You can even find treasures like",
-      " seashells or coins while making a positive impact!"],
-      "image": {
-        "src": ""
-      }
-    },
-    { 
-      "title": "",
-      "text": ["By learning about plastic pollution and making small changes in our daily lives, we can protect the",
-      " ocean and the marine life that lives in it."],
+      "text": [
+        "Plastic straws might seem small, but if we lined up all the straws used in a day, they could wrap",
+        " around the Earth two and a half times!"
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text":["Around 80% of all pollution that enters the ocean through rivers, does it through only 1,000",
-      " rivers. This means that if we limit the amount of pollution from these rivers we can reduce the",
-      " amount of plastic in the ocean."],
+      "text": [
+        "Plastic takes a really long time to break down with some plastic items taking up to 1,000 years to",
+        " fully disappear!"
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text":["Each year ocean water pollution costs Australia around 12 million dollars. This is totalled from",
-      " the fishing industry, tourism and government cleanup efforts."],
+      "text": [
+        "The Great Pacific Garbage Patch is a huge area in the ocean filled with floating plastic that is at",
+        " least three times the size of France!"
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "Microplastics are tiny pieces of plastic that are smaller than grains of rice. They are the result",
+        " of larger plastic breaking down and can be found in the ocean, in our food, and even in the air we",
+        " breathe!"
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "Everywhere in the world can be affected by plastic pollution in the ocean. Even remote and",
+        " beautiful islands and this is why it is important to keep the ocean clean no matter where you are."
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "Plastic pollution doesn’t just affect the ocean but it also affects other bodies of water where",
+        " animals live such as lakes and rivers."
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "Plastic has been found inside marine animals such as the fish that we eat. This is why it is",
+        " important to be careful about how we dispose of plastic."
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "It is much cheaper and easier to reduce the amount of plastic entering the ocean than to remove the",
+        " existing plastic in the ocean!"
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "People are making cool things out of recycled plastic like furniture, clothing, and even toys! This",
+        " means that there is less plastic in the ocean!"
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "Beach cleanups are a fun way to help keep the ocean clean. You can even find treasures like",
+        " seashells or coins while making a positive impact!"
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "By learning about plastic pollution and making small changes in our daily lives, we can protect the",
+        " ocean and the marine life that lives in it."
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "Around 80% of all pollution that enters the ocean through rivers, does it through only 1,000",
+        " rivers. This means that if we limit the amount of pollution from these rivers we can reduce the",
+        " amount of plastic in the ocean."
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "Each year ocean water pollution costs Australia around 12 million dollars. This is totalled from",
+        " the fishing industry, tourism and government cleanup efforts."
+      ],
       "image": {
         "src": ""
       }
     }
   ],
-
   "moreFacts": [
     {
       "title": "",
-      "text": ["50% of all plastic created each year is designed to be single-use only!"],
+      "text": [
+        "50% of all plastic created each year is designed to be single-use only!"
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["Over 90% of seabirds in the world have eaten plastic at some point in their life."],
+      "text": [
+        "Over 90% of seabirds in the world have eaten plastic at some point in their life."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["If current plastic production trends continue, by 2050, there could be more plastic in the ocean by",
-      " weight than fish!"],
+      "text": [
+        "If current plastic production trends continue, by 2050, there could be more plastic in the ocean by",
+        " weight than fish!"
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["Right now there are about 5.25 trillion pieces of plastic waste somewhere in the ocean."],
+      "text": [
+        "Right now there are about 5.25 trillion pieces of plastic waste somewhere in the ocean."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["70% of the rubbish in the ocean sinks, 15% floats and the last 15% ends up on beaches."],
-      "image": {
-      "src": ""
-      }
-    },
-    {
-      "title": "",
-      "text": ["Each year up to 100 million marine animals die from plastic waste alone!"],
+      "text": [
+        "70% of the rubbish in the ocean sinks, 15% floats and the last 15% ends up on beaches."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["Humans have produced more plastic in the last 10 years than in the rest of the last century."],
+      "text": [
+        "Each year up to 100 million marine animals die from plastic waste alone!"
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["All of the junk at sea has produced five massive garbage patches the largest of which is around 2",
-      " times the size of Texas!"],
+      "text": [
+        "Humans have produced more plastic in the last 10 years than in the rest of the last century."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["80% of rubbish in the ocean originates from land-based sources and the other 20% is from",
-      " ocean-based sources such as fishing boats."],
+      "text": [
+        "All of the junk at sea has produced five massive garbage patches the largest of which is around 2",
+        " times the size of Texas!"
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["The most commonly found item in the ocean is cigarette butts followed by food wrappers, plastic",
-      " bottles and plastic straws."],
+      "text": [
+        "80% of rubbish in the ocean originates from land-based sources and the other 20% is from",
+        " ocean-based sources such as fishing boats."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["There are anywhere between 15 to 51 trillion particles of microplastics floating in the ocean in",
-      " addition to other plastics!"],
+      "text": [
+        "The most commonly found item in the ocean is cigarette butts followed by food wrappers, plastic",
+        " bottles and plastic straws."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["Every minute approximately one whole truck's worth of plastic enters the ocean."],
+      "text": [
+        "There are anywhere between 15 to 51 trillion particles of microplastics floating in the ocean in",
+        " addition to other plastics!"
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "Every minute approximately one whole truck's worth of plastic enters the ocean."
+      ],
       "image": {
         "src": ""
       }
     }
   ],
-
   "misconceptions": [
     {
       "title": "",
@@ -419,7 +496,6 @@
       }
     }
   ],
-
   "howToFix": [
     {
       "title": "",
@@ -429,7 +505,6 @@
       }
     }
   ],
-  
   "game": [
     {
       "title": "",
@@ -439,142 +514,165 @@
       }
     }
   ],
-
   "websites": [
     {
       "title": "<a href=\"https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/\" target=\"_blank\">National Geographic - Great Garbage patch</a>",
-      "text": ["Information from National Geographic about the Great Pacific Garbage Patch. The article highlights",
-      " a lot of the main causes of pollution in the great garbage patch. There are a lot of statistics",
-      " that provide insight into the problems that the patch causes along with other data about the",
-      " history of the garbage patch over the last 30 years."
-    ],
+      "text": [
+        "Information from National Geographic about the Great Pacific Garbage Patch. The article highlights",
+        " a lot of the main causes of pollution in the great garbage patch. There are a lot of statistics",
+        " that provide insight into the problems that the patch causes along with other data about the",
+        " history of the garbage patch over the last 30 years."
+      ],
       "image": {
-      "src": ""
+        "src": ""
       }
     },
     {
       "title": "<a href=\"https://oceanconservancy.org/\" target=\"_blank\">Ocean Conservatory</a>",
-      "text": ["The Ocean Conservatory website has a lot of valuable information about the threats that are",
-      " impacting the ocean. It goes into detail about all of these specific issues and lists ways to help",
-      " each of them along with recent news about advancements in each of those areas."],
+      "text": [
+        "The Ocean Conservatory website has a lot of valuable information about the threats that are",
+        " impacting the ocean. It goes into detail about all of these specific issues and lists ways to help",
+        " each of them along with recent news about advancements in each of those areas."
+      ],
       "image": {
-      "src": ""
+        "src": ""
       }
     },
     {
       "title": "<a href=\"https://www.plasticpollutioncoalition.org/learn/plastic-pollution-solutions\" target=\"_blank\">Plastic Pollution Coalition - Solutions</a>",
-      "text": ["The Plastic Pollution Coalition has a really good page for providing facts that are more easily",
-      " digestible for primary school students. There are also a bunch of solutions written that anyone can",
-      " do at home to help reduce the amount of waste entering the ocean."],
+      "text": [
+        "The Plastic Pollution Coalition has a really good page for providing facts that are more easily",
+        " digestible for primary school students. There are also a bunch of solutions written that anyone can",
+        " do at home to help reduce the amount of waste entering the ocean."
+      ],
       "image": {
-      "src": ""
+        "src": ""
       }
     },
     {
       "title": "<a href=\"https://www.surfrider.org/campaigns\" target=\"_blank\">Surfrider Foundation - Campaigns</a>",
-      "text": ["The Surfrider Foundation is a non-profit organization that focuses on conducting projects that",
-      " involve cleaning up areas that have a lot of pollution. This here is a link to their previous and",
-      " current cleanup projects to highlight the widespreadness of this issue."],
+      "text": [
+        "The Surfrider Foundation is a non-profit organization that focuses on conducting projects that",
+        " involve cleaning up areas that have a lot of pollution. This here is a link to their previous and",
+        " current cleanup projects to highlight the widespreadness of this issue."
+      ],
       "image": {
-      "src": ""
+        "src": ""
       }
     }
   ],
-
   "innovations": [
     {
       "title": "<a href=\"https://seabin.io/home/\" target=\"_blank\">The Seabin</a>",
-      "text": ["The Seabin is an innovation that is designed by two Australian designers that disliked the amount",
-      " of rubbish they found in bodies of water around the world. They decided that a good way to reduce",
-      " the amount of rubbish going from these waterways to ending up in the ocean was to catch them before",
-      " this happens. They observed that a lot of the floating rubbish and chemicals were located near the",
-      " edges of the water and decided to use the existing technology that pools use to clean their surface",
-      " to filter out this rubbish."],
+      "text": [
+        "The Seabin is an innovation that is designed by two Australian designers that disliked the amount",
+        " of rubbish they found in bodies of water around the world. They decided that a good way to reduce",
+        " the amount of rubbish going from these waterways to ending up in the ocean was to catch them before",
+        " this happens. They observed that a lot of the floating rubbish and chemicals were located near the",
+        " edges of the water and decided to use the existing technology that pools use to clean their surface",
+        " to filter out this rubbish."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["The team that made the Seabin initially consisted of two Australians; Andrew Turton and Pete",
-      " Ceglinski. In the next few years, the team grew to consist of about 30 members from countries all",
-      " over the world. They were able to receive funding from a few big companies, the Australian",
-      " government and others that were interested in the project."],
-      "image": {
-        "src": ""
-      }
-    },    
-    {
-      "title": "",
-      "text": ["The designers used the idea of pool skimmers to create the Seabin and allow it to suck in the",
-      " floating rubbish around it. The outside of the bin moves up and down slowly in the water which",
-      " creates a tiny whirlpool around where the bin is installed that slowly draws in anything floating",
-      " on the water. The strength of this whirlpool is very weak meaning that it will not affect animals",
-      " or swimmers in the area."],
+      "text": [
+        "The team that made the Seabin initially consisted of two Australians; Andrew Turton and Pete",
+        " Ceglinski. In the next few years, the team grew to consist of about 30 members from countries all",
+        " over the world. They were able to receive funding from a few big companies, the Australian",
+        " government and others that were interested in the project."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["Once the rubbish is near the bin, the larger objects will get stuck at the edge of the bin and will",
-      " stay there until collected. The smaller pieces of rubbish will then be sucked into the bin where",
-      " they will stay until they are also collected. The rest of the water and chemicals that entered the",
-      " bin will then go into a pipe at the bottom of the bin where they are pumped through a filter which",
-      " separates all the harmful chemicals from the water."],
+      "text": [
+        "The designers used the idea of pool skimmers to create the Seabin and allow it to suck in the",
+        " floating rubbish around it. The outside of the bin moves up and down slowly in the water which",
+        " creates a tiny whirlpool around where the bin is installed that slowly draws in anything floating",
+        " on the water. The strength of this whirlpool is very weak meaning that it will not affect animals",
+        " or swimmers in the area."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["Around the world, there are at least 1,500 Seabins installed in various countries and waterways. A",
-      " lot of these are attached to marinas or floating near the shore of these waterways. Generally, they",
-      " need to be emptied anywhere between 1 and 3 times every two days. In Sydney alone in just two",
-      " years, over 100 tonnes of Rubbish was filtered out of the harbour water."],
+      "text": [
+        "Once the rubbish is near the bin, the larger objects will get stuck at the edge of the bin and will",
+        " stay there until collected. The smaller pieces of rubbish will then be sucked into the bin where",
+        " they will stay until they are also collected. The rest of the water and chemicals that entered the",
+        " bin will then go into a pipe at the bottom of the bin where they are pumped through a filter which",
+        " separates all the harmful chemicals from the water."
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": [
+        "Around the world, there are at least 1,500 Seabins installed in various countries and waterways. A",
+        " lot of these are attached to marinas or floating near the shore of these waterways. Generally, they",
+        " need to be emptied anywhere between 1 and 3 times every two days. In Sydney alone in just two",
+        " years, over 100 tonnes of Rubbish was filtered out of the harbour water."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "<a href=\"https://theoceancleanup.com/rivers/\" target=\"_blank\">River Interceptors</a>",
-      "text": ["The Ocean Cleanup organisation found out that one of the biggest contributors to ocean water",
-      " pollution is rubbish that enters through rivers. This is usually due to poor management of waste on",
-      " land due to other social and political factors. They also discovered that there is a group of",
-      " around 1000 rivers in the world that produce more rubbish than others. This is what led them to the",
-      " idea of reducing the output of rubbish from these select rivers."],
+      "text": [
+        "The Ocean Cleanup organisation found out that one of the biggest contributors to ocean water",
+        " pollution is rubbish that enters through rivers. This is usually due to poor management of waste on",
+        " land due to other social and political factors. They also discovered that there is a group of",
+        " around 1000 rivers in the world that produce more rubbish than others. This is what led them to the",
+        " idea of reducing the output of rubbish from these select rivers."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["The solution they came up with was to make large vehicles that sit near the mouth of the river and",
-      " collect rubbish as it flows out with the tide. They use a floating barrier to direct the rubbish to",
-      " the interceptor which then uses a conveyor belt to lift anything floating out of the water and dump",
-      " it into the bins inside. This is then emptied every few days and taken to local facilities where",
-      " the plants are sorted out before the rest is properly disposed of."],
+      "text": [
+        "The solution they came up with was to make large vehicles that sit near the mouth of the river and",
+        " collect rubbish as it flows out with the tide. They use a floating barrier to direct the rubbish to",
+        " the interceptor which then uses a conveyor belt to lift anything floating out of the water and dump",
+        " it into the bins inside. This is then emptied every few days and taken to local facilities where",
+        " the plants are sorted out before the rest is properly disposed of."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["The interceptors have a range of different models so that they can be used in different types of",
-      " rivers. This means that the width of the river or the amount of water that flows through it each",
-      " day does not affect the performance of the interceptors. Some also are bigger than others to cater",
-      " for increased amounts of rubbish in certain areas. They are all solar-powered to reduce the amount",
-      " of negative environmental impact that their operation has."],
+      "text": [
+        "The interceptors have a range of different models so that they can be used in different types of",
+        " rivers. This means that the width of the river or the amount of water that flows through it each",
+        " day does not affect the performance of the interceptors. Some also are bigger than others to cater",
+        " for increased amounts of rubbish in certain areas. They are all solar-powered to reduce the amount",
+        " of negative environmental impact that their operation has."
+      ],
       "image": {
         "src": ""
       }
     },
     {
       "title": "",
-      "text": ["The Ocean Cleanup is also working on a few other projects that can also be used to further reduce",
-      " the amount of rubbish entering the ocean. One of these is a floating barrier that catches rubbish",
-      " coming from small channels and rivers that boats don’t use. This rubbish build-up is collected by",
-      " small interceptors that can be driven around like motor boats."],
+      "text": [
+        "The Ocean Cleanup is also working on a few other projects that can also be used to further reduce",
+        " the amount of rubbish entering the ocean. One of these is a floating barrier that catches rubbish",
+        " coming from small channels and rivers that boats don’t use. This rubbish build-up is collected by",
+        " small interceptors that can be driven around like motor boats."
+      ],
       "image": {
         "src": ""
       }

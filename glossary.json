@@ -1,58 +1,58 @@
 {
   "ocean": [
     {
-        "word": "Pollution",
-        "definition": "Anything that makes the earth dirty and unhealthy"
+      "word": "Pollution",
+      "definition": "Anything that makes the earth dirty and unhealthy"
     },
     {
-        "word": "Chemicals",
-        "definition": "A substance that is bad for the environment and the ocean"
+      "word": "Chemicals",
+      "definition": "A substance that is bad for the environment and the ocean"
     },
     {
-        "word": "Ecosystem",
-        "definition": "A community of plants and animals that live together"
+      "word": "Ecosystem",
+      "definition": "A community of plants and animals that live together"
     },
     {
-        "word": "Environment",
-        "definition": "All living and non-living things in a certain area"
+      "word": "Environment",
+      "definition": "All living and non-living things in a certain area"
     },
     {
-        "word": "Microplastic",
-        "definition": "Pieces of plastic that are smaller than 5mm"
+      "word": "Microplastic",
+      "definition": "Pieces of plastic that are smaller than 5mm"
     },
     {
-        "word": "Sustainable",
-        "definition": "The ability for something to exist on its own and not have negative impacts"
+      "word": "Sustainable",
+      "definition": "The ability for something to exist on its own and not have negative impacts"
     },
     {
-        "word": "Biodiversity",
-        "definition": "The range of different animals and plants in a specific area"
-    },    
+      "word": "Biodiversity",
+      "definition": "The range of different animals and plants in a specific area"
+    },
     {
-        "word": "Awareness",
-        "definition": "Knowledge about a particulat problem or issue in society"
+      "word": "Awareness",
+      "definition": "Knowledge about a particulat problem or issue in society"
     }
   ],
   "resources": [
     {
-        "word": "Innovation",
-        "definition": "A new invention or idea to solve a problem in the world"
+      "word": "Innovation",
+      "definition": "A new invention or idea to solve a problem in the world"
     },
     {
-        "word": "Waterways",
-        "definition": "A passage or channel of water that leads to something bigger like a lake or ocean"
+      "word": "Waterways",
+      "definition": "A passage or channel of water that leads to something bigger like a lake or ocean"
     },
     {
-        "word": "Chemicals",
-        "definition": "A substance that is bad for the environment and the ocean"
+      "word": "Chemicals",
+      "definition": "A substance that is bad for the environment and the ocean"
     },
     {
-        "word": "Facilities",
-        "definition": "A building or place that is used for a specific purpose"
+      "word": "Facilities",
+      "definition": "A building or place that is used for a specific purpose"
     },
     {
-        "word": "Environment",
-        "definition": "All living and non-living things in a certain area"
+      "word": "Environment",
+      "definition": "All living and non-living things in a certain area"
     }
   ]
 }

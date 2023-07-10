@@ -4,6 +4,7 @@ max_length = 100
 start = '{\n"title": "",\n"text": ['
 end = '],\n"image": {\n"src": ""\n}\n}'
 
+
 # splitting the string into lines the same as the max length variable
 def split_into_chunks(string):
     chunks = []
@@ -16,7 +17,7 @@ def split_into_chunks(string):
             # below is for the line after it has been split
         else:
             chunks.append(current_chunk.strip())
-            current_chunk =  word + ' '
+            current_chunk = word + ' '
 
     if current_chunk:
         chunks.append(current_chunk.strip())
@@ -28,6 +29,7 @@ def split_into_chunks(string):
         i += 1
 
     return chunks
+
 
 # getting the text input, sending to the function, and then printing it
 def getInput():
@@ -41,8 +43,10 @@ def getInput():
     pyperclip.copy(start + output + end)
     getInput()
 
+
 def main():
     getInput()
+
 
 if __name__ == '__main__':
     main()
