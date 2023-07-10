@@ -442,10 +442,23 @@
 
   "websites": [
     {
-      "title": "",
-      "text": [],
+      "title": "<a href=\"https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/\" target=\"_blank\">National Geographic - Great Garbage patch</a>",
+      "text": ["Information from National Geographic about the great pacific garbage patch. The article highlights",
+      " a lot of the main causes of pollution in the great garbage patch. There are a lot of statistics",
+      " that provide insight into the problems that the patch causes along with other data about the",
+      " history of the garbage patch over the last 30 years."
+    ],
       "image": {
-        "src": ""
+      "src": ""
+      }
+    },
+    {
+      "title": "<a href=\"https://oceanconservancy.org/\" target=\"_blank\">Ocean Conservatory</a>",
+      "text": ["The Ocean Conservatory website has a lot of valuable information about the threats that are",
+      " impacting the ocean. It goes into detail about all of these specific issues and lists ways to help",
+      " each of them along with having recent news about advancements in each of those areas."],
+      "image": {
+      "src": ""
       }
     }
   ],
