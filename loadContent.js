@@ -83,8 +83,7 @@ fetch(contentUrl)
     setElementContent("misconceptionsContent", data.misconceptions);
     setElementContent("howToFixContent", data.howToFix);
     setElementContent("gameContent", data.game);
-    setElementContent("worksheetsContent", data.worksheets);
-    setElementContent("videosContent", data.videos);
+    setElementContent("websitesContent", data.websites);
     setElementContent("websitesContent", data.websites);
 
     })
