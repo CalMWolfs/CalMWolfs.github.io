@@ -29,16 +29,17 @@ if (pageName != 'game.html') {
     html += `<div style="${styleLine}"><span class="dot"></span></div>`
   }
   div.innerHTML = html;
-
-  const tableOfContents = document.getElementById("contentsTable")
-  const sections = document.getElementsByTagName("section")
-  html = "<h2>Contents</h2><ul>";
-  for (let i = 0; i < sections.length; i++) {
-    html += `<li><a href="#${sections[i].id}">${sections[i].firstElementChild.innerHTML}</a></li>`
+  if (pageName != 'misconceptions.html') {
+    const tableOfContents = document.getElementById("contentsTable")
+    const sections = document.getElementsByTagName("section")
+    html = "<h2>Contents</h2><ul>";
+    for (let i = 0; i < sections.length; i++) {
+      html += `<li><a href="#${sections[i].id}">${sections[i].firstElementChild.innerHTML}</a></li>`
+    }
+    html += `</ul>`
+    tableOfContents.innerHTML = html;
   }
-  html += `</ul>`
-  tableOfContents.innerHTML = html;
-} 
+}
 
 fetch(glossaryJson)
   .then(response => response.json())
@@ -57,7 +58,6 @@ fetch(glossaryJson)
       html = "<h2>Words to learn</h2>"
       for (let i = 0; i < content.length; i++) {
         html += `<b>${content[i].word}</b><p>${content[i].definition}</p>`
-        console.log("hiiii")
       }
 
       glossary.innerHTML = html
@@ -81,7 +81,6 @@ fetch(contentUrl)
     setElementContent("funFactsContent", data.funFacts);
     setElementContent("moreFactsContent", data.moreFacts);
     setElementContent("misconceptionsContent", data.misconceptions);
-    setElementContent("howToFixContent", data.howToFix);
     setElementContent("gameContent", data.game);
     setElementContent("websitesContent", data.websites);
     setElementContent("websitesContent", data.websites);

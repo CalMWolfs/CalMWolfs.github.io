@@ -490,9 +490,97 @@
   "misconceptions": [
     {
       "title": "",
-      "text": [],
+      "text": ["<b>Recycling is enough:</b> While recycling is important, it's not sufficient to address ocean pollution.",
+      " Many items, such as microplastics and chemicals, can't be effectively recycled."],
       "image": {
-        "src": ""
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Only large efforts make a difference:</b> Every small action counts. Individual efforts to",
+      " reduce pollution collectively contribute to a significant impact."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Biodegradable products:</b> Biodegradable products break down more easily, but they can still",
+      " harm marine life during the decomposition process."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Composting is not relevant:</b> Composting organic waste helps reduce the need for chemical",
+      " fertilisers, which can contribute to ocean pollution through runoff and also reduces the amount of",
+      " greenhouse gases being produced."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Washing cars on the street:</b> Washing cars on the street allows soapy water to flow into storm",
+      " drains, which eventually leads to the ocean. Use a commercial car wash or wash the car on a",
+      " permeable surface."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Oil down the drain:</b> Pouring cooking oil down the drain leads to blockages in pipes and can",
+      " contaminate waterways. Dispose of used oil properly by recycling or solidifying it and throwing it",
+      " in the trash."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Plastic Utensils:</b> While single-use plastics only make up a small percentage of the total",
+      " plastic waste, they are still an item that is commonly found polluting the environment and has many",
+      " better alternatives."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Lawn chemicals don't affect the ocean:</b> Chemical fertilisers and pesticides used on lawns can",
+      " be washed away by rain or irrigation and end up in rivers and oceans, leading to pollution that is",
+      " harmful to wildlife."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Sewage plants remove all pollutants:</b> While sewage treatment plants remove many pollutants,",
+      " they may not eliminate all harmful substances, including pharmaceuticals and microplastics. This is",
+      " why it is important to dispose of waste properly."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Boating:</b> Boats can release oil, fuel, and waste into the water if not properly maintained or",
+      " disposed of. Follow responsible boating practices and dispose of waste at designated facilities to",
+      " help reduce the amount of pollution that boating produces."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "",
+      "text": ["<b>Living far from the coast:</b> Pollution in inland areas can still reach the ocean through",
+      " rivers and other waterways. Taking action to reduce pollution at home helps protect the ocean."],
+      "image": {
+      "src": ""
       }
     }
   ],
@@ -552,7 +640,7 @@
     {
       "title": "<a href=\"https://www.surfrider.org/campaigns\" target=\"_blank\">Surfrider Foundation - Campaigns</a>",
       "text": [
-        "The Surfrider Foundation is a non-profit organization that focuses on conducting projects that",
+        "The Surfrider Foundation is a non-profit organisation that focuses on conducting projects that",
         " involve cleaning up areas that have a lot of pollution. This here is a link to their previous and",
         " current cleanup projects to highlight the widespreadness of this issue."
       ],
