@@ -443,7 +443,7 @@
   "websites": [
     {
       "title": "<a href=\"https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/\" target=\"_blank\">National Geographic - Great Garbage patch</a>",
-      "text": ["Information from National Geographic about the great pacific garbage patch. The article highlights",
+      "text": ["Information from National Geographic about the Great Pacific Garbage Patch. The article highlights",
       " a lot of the main causes of pollution in the great garbage patch. There are a lot of statistics",
       " that provide insight into the problems that the patch causes along with other data about the",
       " history of the garbage patch over the last 30 years."
@@ -456,7 +456,25 @@
       "title": "<a href=\"https://oceanconservancy.org/\" target=\"_blank\">Ocean Conservatory</a>",
       "text": ["The Ocean Conservatory website has a lot of valuable information about the threats that are",
       " impacting the ocean. It goes into detail about all of these specific issues and lists ways to help",
-      " each of them along with having recent news about advancements in each of those areas."],
+      " each of them along with recent news about advancements in each of those areas."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "<a href=\"https://www.plasticpollutioncoalition.org/learn/plastic-pollution-solutions\" target=\"_blank\">Plastic Pollution Coalition - Solutions</a>",
+      "text": ["The Plastic Pollution Coalition has a really good page for providing facts that are more easily",
+      " digestible for primary school students. There are also a bunch of solutions written that anyone can",
+      " do at home to help reduce the amount of waste entering the ocean."],
+      "image": {
+      "src": ""
+      }
+    },
+    {
+      "title": "<a href=\"https://www.surfrider.org/campaigns\" target=\"_blank\">Surfrider Foundation - Campaigns</a>",
+      "text": ["The Surfrider Foundation is a non-profit organization that focuses on conducting projects that",
+      " involve cleaning up areas that have a lot of pollution. This here is a link to their previous and",
+      " current cleanup projects to highlight the widespreadness of this issue."],
       "image": {
       "src": ""
       }
