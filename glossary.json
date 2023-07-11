@@ -1,10 +1,6 @@
 {
   "ocean": [
     {
-      "word": "Pollution",
-      "definition": "Anything that makes the earth dirty and unhealthy"
-    },
-    {
       "word": "Chemicals",
       "definition": "A substance that is bad for the environment and the ocean"
     },
@@ -27,10 +23,6 @@
     {
       "word": "Biodiversity",
       "definition": "The range of different animals and plants in a specific area"
-    },
-    {
-      "word": "Awareness",
-      "definition": "Knowledge about a particulat problem or issue in society"
     }
   ],
   "resources": [
