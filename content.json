@@ -493,7 +493,7 @@
       "text": ["<b>Recycling is enough:</b> While recycling is important, it's not sufficient to address ocean pollution.",
       " Many items, such as microplastics and chemicals, can't be effectively recycled."],
       "image": {
-      "src": ""
+      "src": "images/recycling.jpg"
       }
     },
     {
@@ -509,7 +509,7 @@
       "text": ["<b>Biodegradable products:</b> Biodegradable products break down more easily, but they can still",
       " harm marine life during the decomposition process."],
       "image": {
-      "src": ""
+      "src": "images/composter.jpeg"
       }
     },
     {
@@ -527,7 +527,7 @@
       " drains, which eventually leads to the ocean. Use a commercial car wash or wash the car on a",
       " permeable surface."],
       "image": {
-      "src": ""
+      "src": "images/car_wash.jpeg"
       }
     },
     {
@@ -536,7 +536,7 @@
       " contaminate waterways. Dispose of used oil properly by recycling or solidifying it and throwing it",
       " in the trash."],
       "image": {
-      "src": ""
+      "src": "images/cooking_oil.jpeg"
       }
     },
     {
@@ -545,7 +545,7 @@
       " plastic waste, they are still an item that is commonly found polluting the environment and has many",
       " better alternatives."],
       "image": {
-      "src": ""
+      "src": "images/utensils.jpeg"
       }
     },
     {
@@ -554,7 +554,7 @@
       " be washed away by rain or irrigation and end up in rivers and oceans, leading to pollution that is",
       " harmful to wildlife."],
       "image": {
-      "src": ""
+      "src": "images/lawn.jpg"
       }
     },
     {
@@ -572,7 +572,7 @@
       " disposed of. Follow responsible boating practices and dispose of waste at designated facilities to",
       " help reduce the amount of pollution that boating produces."],
       "image": {
-      "src": ""
+      "src": "images/fishing_boat.jpeg"
       }
     },
     {
@@ -580,7 +580,7 @@
       "text": ["<b>Living far from the coast:</b> Pollution in inland areas can still reach the ocean through",
       " rivers and other waterways. Taking action to reduce pollution at home helps protect the ocean."],
       "image": {
-      "src": ""
+      "src": "images/rivers_aus.jpeg"
       }
     }
   ],
