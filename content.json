@@ -228,7 +228,7 @@
       }
     }
   ],
-  "funFacts": [
+  "facts": [
     {
       "title": "",
       "text": [
@@ -246,7 +246,7 @@
         " around the Earth two and a half times!"
       ],
       "image": {
-        "src": ""
+        "src": "images/straws.jpeg"
       }
     },
     {
@@ -277,7 +277,7 @@
         " breathe!"
       ],
       "image": {
-        "src": ""
+        "src": "images/plastic_hands.jpeg"
       }
     },
     {
@@ -287,7 +287,7 @@
         " beautiful islands and this is why it is important to keep the ocean clean no matter where you are."
       ],
       "image": {
-        "src": ""
+        "src": "images/remote_island.jpeg"
       }
     },
     {
@@ -317,7 +317,7 @@
         " existing plastic in the ocean!"
       ],
       "image": {
-        "src": ""
+        "src": "images/other_plastic.jpeg"
       }
     },
     {
@@ -327,7 +327,7 @@
         " means that there is less plastic in the ocean!"
       ],
       "image": {
-        "src": ""
+        "src": "images/recycled_chair.jpeg"
       }
     },
     {
@@ -337,7 +337,7 @@
         " seashells or coins while making a positive impact!"
       ],
       "image": {
-        "src": ""
+        "src": "images/beach_cleanup.jpeg"
       }
     },
     {
@@ -358,7 +358,7 @@
         " amount of plastic in the ocean."
       ],
       "image": {
-        "src": ""
+        "src": "images/river_pollution.jpeg"
       }
     },
     {
@@ -370,9 +370,7 @@
       "image": {
         "src": ""
       }
-    }
-  ],
-  "moreFacts": [
+    },
     {
       "title": "",
       "text": [
@@ -388,7 +386,7 @@
         "Over 90% of seabirds in the world have eaten plastic at some point in their life."
       ],
       "image": {
-        "src": ""
+        "src": "images/seabird.webp"
       }
     },
     {
@@ -416,7 +414,7 @@
         "70% of the rubbish in the ocean sinks, 15% floats and the last 15% ends up on beaches."
       ],
       "image": {
-        "src": ""
+        "src": "images/floor_rubbish.webp"
       }
     },
     {
@@ -444,7 +442,7 @@
         " times the size of Texas!"
       ],
       "image": {
-        "src": ""
+        "src": "images/patch_size.png"
       }
     },
     {
@@ -464,7 +462,7 @@
         " bottles and plastic straws."
       ],
       "image": {
-        "src": ""
+        "src": "images/plastic_bottles.jpeg"
       }
     },
     {
@@ -483,7 +481,7 @@
         "Every minute approximately one whole truck's worth of plastic enters the ocean."
       ],
       "image": {
-        "src": ""
+        "src": "images/truck_rubbish.jpeg"
       }
     }
   ],

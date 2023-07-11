@@ -29,7 +29,7 @@ if (pageName != 'game.html') {
     html += `<div style="${styleLine}"><span class="dot"></span></div>`
   }
   div.innerHTML = html;
-  if (pageName != 'misconceptions.html') {
+  if (pageName != 'misconceptions.html' && pageName != 'facts.html') {
     const tableOfContents = document.getElementById("contentsTable")
     const sections = document.getElementsByTagName("section")
     html = "<h2>Contents</h2><ul>";
@@ -78,13 +78,11 @@ fetch(contentUrl)
     setElementContent("contributeContent", data.contribute);
     setElementContent("caseStudiesContent", data.caseStudies);
     setElementContent("innovationsContent", data.innovations);
-    setElementContent("funFactsContent", data.funFacts);
-    setElementContent("moreFactsContent", data.moreFacts);
+    setElementContent("factsContent", data.facts);
     setElementContent("misconceptionsContent", data.misconceptions);
     setElementContent("gameContent", data.game);
     setElementContent("websitesContent", data.websites);
     setElementContent("websitesContent", data.websites);
-
     })
     .catch(error => {
     console.error("Error fetching content:", error);
