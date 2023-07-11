@@ -11,9 +11,9 @@
 }
 
 @font-face {
-  font-family: "Ingat";
-  src: url("fonts/Ingat\ Regular.woff") format("woff");
-  src: url("fonts/Ingat\ Regular.woff2") format("woff2");
+  font-family: "Expressway";
+  src: url("fonts/ExpresswayRg-Regular.woff") format("woff");
+  src: url("fonts/ExpresswayRg-Regular.woff2") format("woff2");
 }
 
 /* Default styles */
@@ -25,7 +25,7 @@
 
 /* Body styles */
 body {
-  font-family: "Ingat";
+  font-family: "Expressway"; /* fix */
   background-color: #f0f0f0;
   line-height: 1.6;
   padding: 20px;
@@ -110,12 +110,17 @@ nav ul li a:hover {
   right: 7.5%;
   word-wrap: break-word;
   width: 20%;
-  font-family: "ThanksFarmhouse";
-  font-size: 20px;
+  font-size: 18px;
 }
 
 #glossary h2 {
   font-family: "Caprasimo";
+}
+
+#glossary b {
+  font-family: "ThanksFarmhouse"; 
+  font-size: 22px;
+  letter-spacing: 1px;
 }
 
 /* Main content styles */
@@ -154,10 +159,11 @@ section .section-text {
   z-index: 2;
 }
 
-/* section .section-text p {
-  font-family: "ThanksFarmhouse";
-  font-size: 20px;
-} */
+section .section-text p b {
+  font-family: "ThanksFarmhouse"; 
+  font-size: 18px;
+  letter-spacing: 1px;
+}
 
 section .section-text h3 {
   font-family: Caprasimo;
@@ -172,12 +178,12 @@ section .section-text h3 {
 
 .section-text .image-left {
   float: left;
-  margin: 5px 5px 5px 0;
+  margin: 0 10px 5px 0;
 }
 
 .section-text .image-right {
   float: right;
-  margin: 5px 0 5px 5px;
+  margin: 0 0 5px 10px;
 }
 
 /* Footer styles */
