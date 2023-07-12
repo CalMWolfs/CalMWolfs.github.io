@@ -100,6 +100,7 @@ function setElementContent(elementId, content) {
       const image = content[i].image;
       const title = content[i].title
       const imageClass = i % 2 === 0 ? 'image-left' : 'image-right';
+      html += `<div>`
       if (title) {
         html += `<h3>${title}</h3>`
       }
@@ -108,7 +109,7 @@ function setElementContent(elementId, content) {
         html += `<img class="${imageClass}" src="${image.src}">`;
       }
 
-      html += `<p>${paragraph}</p><br>`;
+      html += `<p>${paragraph}</p></div><br>`;
     }
     element.innerHTML = html;
   }

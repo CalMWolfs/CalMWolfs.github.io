@@ -159,6 +159,12 @@ section .section-text {
   z-index: 2;
 }
 
+section .section-text div {
+  border-radius: 10px;
+  background-color: rgb(155, 230, 255);
+  outline: solid blue 4px;
+}
+
 section .section-text p b {
   font-family: "ThanksFarmhouse"; 
   font-size: 18px;
@@ -174,6 +180,7 @@ section .section-text h3 {
   max-width: 200px;
   max-height: 100%;
   translate: 0 10px;
+  display: block;
 }
 
 .section-text .image-left {
